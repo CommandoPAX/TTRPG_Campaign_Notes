@@ -1,0 +1,2 @@
+Permet un déplacement instantanée dans l'Univers en utilisant la dimension du temps comme passage. Rend semi-transparent tout ceux à bord d'un vaisseau effectuant un saut. 
+Un voyage en utilisant un propulseur de classe Néant est instantanée. 

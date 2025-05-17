@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"Propulseur de classe Néant.md","id":"d27003ece25331e9","x":-1020,"y":-900,"width":400,"height":400},
+		{"type":"file","file":"Le problème Zariman/Statblock/Aerial (Suletta Mercury).md","id":"826ba8a61652d20b","x":-1020,"y":-460,"width":400,"height":400},
+		{"type":"file","file":"Le problème Zariman/Statblock/FA - Thunderbolt (Io & Flemming).md","id":"069d69e169923b33","x":-600,"y":-460,"width":400,"height":400},
+		{"type":"file","file":"Le problème Zariman/Statblock/Nu (Char Aznable).md","id":"87e0ee9d5bf5ebd5","x":-180,"y":-460,"width":400,"height":400},
+		{"type":"file","file":"Le problème Zariman/Zariman.md","id":"6e7d1ae19107898c","x":-600,"y":-900,"width":400,"height":400},
+		{"type":"text","text":"# CR du groupe\n\nFoot : APL 5\nStarship : Tier 10 -> APL 8\nMechs : APL 8 (Foot + 3)","id":"c9c37f18fda0e7c8","x":-180,"y":-900,"width":400,"height":400}
+	],
+	"edges":[]
+}

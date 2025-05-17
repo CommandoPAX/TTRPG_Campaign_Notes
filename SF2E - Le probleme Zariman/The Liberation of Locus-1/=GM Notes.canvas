@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d75d5d4e43311846","x":-1260,"y":-820,"width":352,"height":345,"type":"text","text":"# Relation\nMaintenance : Unfriendly\nMilitia : neutral\nValun : neutral\nUsk Paltino : friendly (friendly ++)\nLorkin Haas : neutral\nTonda : friendly (sauf Delzant unfriendly)\n\nBar a été détruit don"},
+		{"id":"ef93c8d0d6456751","type":"text","text":"# Level\nCampagne commence au niveau 5 et s'arrêtera niveau 7","x":-880,"y":-820,"width":305,"height":130}
+	],
+	"edges":[]
+}

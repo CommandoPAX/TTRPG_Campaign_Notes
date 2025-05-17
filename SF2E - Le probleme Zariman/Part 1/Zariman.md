@@ -1,0 +1,2 @@
+Le Zariman se situe au point de saut Gamma, situé au dela d'Aucturn. C'est un vaisseau-monde entièrement autonome intégrant une technologie de déphasage temporel lui permettant de voyager dans l'espace et le temps en même temps. 
+La construction de ce propulseur de classe Néant a ruiné CompEnt qui sont dorénavant désespéré de récupéré l'épave du Zariman.
