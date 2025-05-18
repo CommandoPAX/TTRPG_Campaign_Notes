@@ -16,4 +16,17 @@ Tout est donné en par joueurs
 - Objectifs mineurs :  200 Manna
 - Objectifs optionnels : 50 Manna
 
-Chaque mission doit avoir 
+Chaque mission doit avoir au moins **1 objectif majeur et 2 objectifs mineurs** ou **2 objectifs majeurs**.
+
+### Utilisation
+La Manna peut seulement être dépensé entre deux missions (Downtime)
+- 500 Manna : un rang de license d'un mecha
+- 300 Manna : un talent
+- 200 Manna : +2 à un Trigger, +1 à un Mech skill
+
+#### Location
+Un autre manière d'utiliser la Manna. Vous pouvez louer une license (une seule) pendant une mission : 
+- 100 Manna : Rang 1
+- 200 Manna : Rang 2
+- 300 Mana : Rang 3
+Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna.
