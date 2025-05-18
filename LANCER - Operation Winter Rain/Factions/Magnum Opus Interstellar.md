@@ -8,13 +8,16 @@ Magnum Opus designs are primarily defensively based, skilled in evasion and tric
 
 # NPCs
 ## Artillery
-
+- 
 ## Biological
-
+- 
 ## Controller
-
+- 
 ## Defender
-
+- 
 ## Striker
-
+- 
 ## Support
+- 
+### Template
+- Grunt, Veteran, Elite, Ultra
