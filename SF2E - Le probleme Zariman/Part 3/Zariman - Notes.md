@@ -159,6 +159,10 @@ Ayleth ne protégeant plus la simulation, il est l'heure pour la Volonté Suprê
 
 # Session 3 - La Volonté Suprême
 
+Ayleth n'empêchant plus la simulation de s'arrêter, les PJ vont avoir de plus en plus de vision d'une immense salle blanche. 
+Pour déterminer si elle la simulation est une réussite ou un échec, la Volonté Suprême va soumettre le groupe à une série de test basé sur leurs expériences passées.
+En cas d'échec, ils risquent l'anéantissement.
+
 ## Phase 1
 ```pf2e-stats
 Volonté Suprême - Phase 1 creature 13  
@@ -177,7 +181,7 @@ Arcane Spells DC 33, attack +25; 7th World Warp (at will);
 INCORRECT [[R]]  
 La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 ```
-##
+## Phase 2
 ```pf2e-stats
 # Volonté Suprême - Phase 2 - Locus-1
 ## 14
@@ -196,6 +200,7 @@ Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire
 Arcane Spells DC 34, attack +26; 7th World Warp (at will);
 
 ```
+## Phase 3
 ```pf2e-stats
 # Volonté Suprême - Phase 3
 ## 15
@@ -213,6 +218,7 @@ Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire
 Arcane Spells DC 36, attack +28; 7th World Warp (at will);
 
 ```
+## Phase 4
 ```pf2e-stats
 # Volonté Suprême - Phase 4
 ## 16
