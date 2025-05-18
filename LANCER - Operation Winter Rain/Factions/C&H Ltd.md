@@ -60,9 +60,9 @@ together.
 - Champion
 - Scrapper
 - Sysadmin
-- Dataform
 - Infiltrator
 - Swarmhost
 - Puppeteer
 - RPV
 - Vehicle
+- Exotic

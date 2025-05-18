@@ -2,13 +2,15 @@
 
 # NPCs
 ## Artillery
-
+- 
 ## Biological
-
+- 
 ## Controller
-
+- 
 ## Defender
-
+- 
 ## Striker
-
+- 
 ## Support
+- 
+### Template
