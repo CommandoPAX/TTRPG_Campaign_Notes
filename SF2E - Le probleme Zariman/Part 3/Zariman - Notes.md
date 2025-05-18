@@ -223,18 +223,22 @@ Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental
 Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
 Arcane Spells DC 34, attack +26; 7th World Warp (at will);
 
+**Rayon destructeur** La Volonté Suprême choisie 3 rangées de cases, et tire un rayon destructeur sur chacune d'entre elle. Celui-ci est suffisament puissant pour détruire n'importe quelle couverture mais aussi suffisament pour ne pas anéantir le paysage. R
+
 ```
 ```pf2e-stats
 # Volonté Fragmentée - Phase 2
 ## 12
 ```
 ## Phase 3
+La Volonté Suprême se lie aux PJ, tout les dégâts qui lui sont infligé sont répartis entre les PJ. Tout les dégâts infligés aux PJ sont envoyé à la Volonté Suprême.
+Les Volonté Fragmentée se concentre sur le fait d'attaquer la Volonté Suprême.
 ```pf2e-stats
 # Volonté Suprême - Phase 3
 ## 15
 ---
-Volonté Suprême - Phase 2 creature 15  
-gargantuan monitor drift construct  
+
+==gargantuan== ==monitor== ==drift== ==construct==  
 Perception +29; Truesight  
 Skills  
 Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6  
