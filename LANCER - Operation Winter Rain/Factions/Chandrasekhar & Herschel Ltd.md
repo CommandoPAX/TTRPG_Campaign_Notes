@@ -50,6 +50,20 @@ together.
 - Carrier
 - Sergeant
 - Memoria
-
+- Soulwarden
+- Symbiote
+- Crusader
+- Amplifier
+- Leech
+- Mirage
+- Priest
 ### Templates
-- 
+- Grunt, Veteran, Elite, Ultra
+- Champion
+- Scrapper
+- Sysadmin
+- Dataform
+- Infiltrator
+- Swarmhost
+- Spec Op
+- Puppeteer
