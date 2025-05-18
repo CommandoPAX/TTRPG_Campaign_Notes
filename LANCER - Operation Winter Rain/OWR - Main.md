@@ -1,4 +1,6 @@
-Campagne style armored core 6 
+# 3rd party content
+- Lancer Enhanced Combat
+- Legionnaire
 
-
-J'aime ma waifu
+# Règles optionnelles
+- Manna System
