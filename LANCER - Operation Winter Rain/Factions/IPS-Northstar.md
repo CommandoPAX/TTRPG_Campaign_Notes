@@ -8,7 +8,7 @@ IPS-Northstar (IPS-N) was created from the merger of two civilian interstellar f
 - Strider
 - MBT
 - Rainmaker
-- Sniper
+- Bombard
 ## Biological
 - Squad
 ## Controller
@@ -48,21 +48,33 @@ IPS-Northstar (IPS-N) was created from the merger of two civilian interstellar f
 - Scout
 - Support
 ### Templates
-- Grunt
+- Grunt, Veteran, Elite, Ultra
+- Partisan
+- Security
+- Industrial
+- Marine
+- Spacer
+- Mercenary
+- Pirate
 # Downfall Group
 
 Même troupe que IPS-Northstar avec en plus :
 
 ## Artillery
-
-## Biological
-
+- Sniper
+- Operator
 ## Controller
-
+- Chameleon
+- Nightmare
 ## Defender
-
+- Eclipse
+- Ferryman
 ## Striker
 - Assassin
+- Necromancer
 ## Support
-
+- Harvester
+- Leech
 ### Templates
+- Infiltrator
+- Spec Op
