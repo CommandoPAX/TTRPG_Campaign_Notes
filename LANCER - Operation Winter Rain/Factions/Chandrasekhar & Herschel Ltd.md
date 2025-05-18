@@ -8,6 +8,9 @@ diverse as their origins, without the common thread that ties other corporations
 together.
 
 # NPCs
+
+Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
+
 ## Artillery
 - Titan
 - Resonant
@@ -20,6 +23,7 @@ together.
 - Nightmare
 - Termite
 - Broadcaster
+- Cryogen
 
 ## Defender
 - Conscript
