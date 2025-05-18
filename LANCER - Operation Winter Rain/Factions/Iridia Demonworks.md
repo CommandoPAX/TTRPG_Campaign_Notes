@@ -7,6 +7,9 @@ But once something has been discovered, it turns out, it’s very hard to put it
 ## Artillery
 - Fusillade
 - Resonant
+- Stormcaller
+- Phantasm
+- Sniper
 ## Biological
 - Squad
 - Parafauna
@@ -17,10 +20,14 @@ But once something has been discovered, it turns out, it’s very hard to put it
 - Directive
 - Firebug
 - Oracle
+- Skulk
+- Living Battlefield
 ## Defender
 - Luminant
 - Sacrificial
-- 
+- Swarmling
+- Eclipse
+- Ferryman
 ## Striker
 - Angel
 - Doppelganger
@@ -28,3 +35,17 @@ But once something has been discovered, it turns out, it’s very hard to put it
 ## Support
 - Cache
 - Memoria
+- Soulwarden
+- Symbiote
+### Templates
+- Grunt, Veteran, Elite, Ultra
+- Archaelogist
+- Dataform
+- Disciple
+- Infiltrator
+- Knight
+- Swarmhost
+- Sysadmin
+- Weaponmaster
+- Shieldbearer
+- Chosen / Soulshard
