@@ -19,11 +19,15 @@ Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
 - Operator
 ## Biological
 - Squad
+- Parafauna
 ## Controller
 - Nightmare
 - Termite
 - Broadcaster
 - Cryogen
+- Chameleon
+- Directive
+- Timekeeper
 
 ## Defender
 - Conscript
@@ -36,3 +40,6 @@ Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
 ## Support
 - Carrier
 - Sergeant
+
+# Templates
+- 
