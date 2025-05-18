@@ -15,3 +15,5 @@ Focus sur les unités lourdes
 ## Striker
 
 ## Support
+
+### Templates

@@ -16,4 +16,20 @@ Focus sur les unités lourdes et les unités mobiles
 
 ## Support
 
+### Templates
+
 # Downfall Group
+
+## Artillery
+
+## Biological
+
+## Controller
+
+## Defender
+
+## Striker
+
+## Support
+
+### Templates

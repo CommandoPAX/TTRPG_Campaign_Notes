@@ -8,9 +8,6 @@ diverse as their origins, without the common thread that ties other corporations
 together.
 
 # NPCs
-
-Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
-
 ## Artillery
 - Titan
 - Resonant
@@ -28,11 +25,16 @@ Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
 - Chameleon
 - Directive
 - Timekeeper
-
+- Hive
+- Witch
 ## Defender
 - Conscript
 - Gladiator
 - Reaver
+- Swarmling
+- Archon
+- Harrier
+- Eclipse
 ## Striker
 - Ogre
 - Phantom
@@ -41,5 +43,5 @@ Focus sur les ennemis paracasaux / Tech avec quelques unités lourdes
 - Carrier
 - Sergeant
 
-# Templates
+### Templates
 - 
