@@ -216,19 +216,27 @@ Les Volonté Fragmentée sont immunisé au type de dégât affiché sur la roue,
 
 ---
 
-AC 35; Fort +25, Ref +19, Will +30  
-HP 195; Immunities All  
-Speed 0  
-Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
-Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
-Arcane Spells DC 34, attack +26; 7th World Warp (at will);
+**AC** 35; **Fort** +25, **Ref** +19, **Will** +30  
+**HP** 195; **Immunities** Variable 
+**Speed** 0  
+**Ranged** [[A]] Fragment d'une réalité corrompue +27, **Damage** 3d8+14 mental  
 
-**Rayon destructeur** La Volonté Suprême choisie 3 rangées de cases, et tire un rayon destructeur sur chacune d'entre elle. Celui-ci est suffisament puissant pour détruire n'importe quelle couverture mais aussi suffisament pour ne pas anéantir le paysage. R
+---
+
+**Arcane Spells** DC 34, attack +26; 7th World Warp (at will);
+
+---
+
+**Rayon destructeur** La Volonté Suprême choisie 3 rangées de cases, et tire un rayon destructeur sur chacune d'entre elle. Celui-ci est suffisament puissant pour détruire n'importe quelle couverture mais aussi suffisament pour ne pas anéantir le paysage. **4d12+10** dégâts du type affichée sur la roue (Basic ref save DC 34).
 
 ```
 ```pf2e-stats
 # Volonté Fragmentée - Phase 2
 ## 12
+
+---
+
+==Medium== ==Construct== ==Mindless== ==Drift==
 ```
 ## Phase 3
 La Volonté Suprême se lie aux PJ, tout les dégâts qui lui sont infligé sont répartis entre les PJ. Tout les dégâts infligés aux PJ sont envoyé à la Volonté Suprême.
