@@ -161,17 +161,22 @@ Ayleth ne protégeant plus la simulation, il est l'heure pour la Volonté Suprê
 
 ```pf2e-stats
 # Volonté Suprême - Phase 1
-## 17
+## 13
+---
+
 ```
 ```pf2e-stats
-# Volonté Suprême - Phase 1
+# Volonté Suprême - Phase 2 - Locus-1
 ## 14
+---
 ```
 ```pf2e-stats
-# Volonté Suprême - Phase 1
+# Volonté Suprême - Phase 3
 ## 15
+---
 ```
 ```pf2e-stats
-# Volonté Suprême - Phase 1
+# Volonté Suprême - Phase 4
 ## 16
+---
 ```
