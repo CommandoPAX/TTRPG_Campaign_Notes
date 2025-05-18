@@ -28,15 +28,24 @@ But once something has been discovered, it turns out, it’s very hard to put it
 - Swarmling
 - Eclipse
 - Ferryman
+- Warden
 ## Striker
 - Angel
 - Doppelganger
 - Indomitable
+- Phantom
+- Legionnaire
+- Necromancer
+- Assassin
+- Cataphract
+- Ronin
 ## Support
 - Cache
 - Memoria
 - Soulwarden
 - Symbiote
+- Chessmaster
+- Harvester
 ### Templates
 - Grunt, Veteran, Elite, Ultra
 - Archaelogist

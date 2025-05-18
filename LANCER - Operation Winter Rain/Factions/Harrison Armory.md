@@ -1,15 +1,19 @@
 # Description
 
 # NPCs
-
-Focus sur les unités lourdes
-
 ## Artillery
-
-## Biological
-
+- Landship
+- Stormcaller
+- Titan
+- Behemoth
+- Strider
+- MBT
+- Bombard
+- Rainmaker
 ## Controller
-
+- Broadcaster
+- Cryogen
+- Firebug
 ## Defender
 
 ## Striker

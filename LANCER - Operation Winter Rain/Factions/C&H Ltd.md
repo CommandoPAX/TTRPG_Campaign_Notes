@@ -51,8 +51,6 @@ together.
 - Sergeant
 - Memoria
 - Soulwarden
-- Symbiote
-- Crusader
 - Amplifier
 - Leech
 - Mirage
