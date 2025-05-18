@@ -199,7 +199,6 @@ La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 ---
 ==Medium== ==Construct== ==Mindless== ==Drift==
 ```
-
 ## Phase 2
 La Volonté Suprême projette une roue de différentes couleurs : rouge (feu), bleu clair (cold), vert (acide), bleu foncé (électrique), gris (physical), rose (sonic). 
 La Volonté Suprême est vulnérable à l'élement associé à la couleur et immunisé aux restes. A chaque fois qu'une vulnérabilité est frappée, la roue avance d'un cran.
@@ -270,6 +269,7 @@ Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6
 ```
 ## Phase 4
 La réalité simulé par la Volonté Suprême est maintenant en pleine effondrement, une porte s'ouvre du côté le plus éloignée des PJ. Traverser cette porte est leur seule issue.
+L'incarnation de la Volonté Suprême, devenue instable avec l'effondrement de la simulation, attaque en projetant des vagues d'énergies frappant tout le monde et attirant les PJ vers elle (4 cases à chaque fois).
 ```pf2e-stats
 # Volonté Suprême - Phase 4
 ## 16
@@ -277,9 +277,8 @@ La réalité simulé par la Volonté Suprême est maintenant en pleine effondrem
 ---
  
 ==gargantuan== ==monitor== ==drift== ==construct==  
-Perception +30; Truesight  
-Skills  
-Str -4, Dex -4, Con +5, Int +10, Wis +10, Cha +6  
+**Perception** +30; Truesight  
+**Str** -4, Dex -4, Con +5, Int +10, Wis +10, Cha +6  
 
 ---
 
@@ -290,11 +289,7 @@ Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental
 Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
 Arcane Spells DC 37, attack +29; 7th World Warp (at will);
 ```
-```pf2e-stats
-# Volonté Fragmentée - Phase 4
-## 14
 
----
+# Fin et épilogue
 
-==Medium== ==Construct== ==Mindless== ==Drift==
-```
+Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "Le Mixeur" 
