@@ -21,13 +21,34 @@ IPS-Northstar (IPS-N) was created from the merger of two civilian interstellar f
 - Archer
 - Hornet
 ## Defender
-- 
+- Archon
+- Harrier
+- Warden
+- Wingman
+- Fortress
+- Bastion
+- Goliath
+- Sentinel
 ## Striker
-
+- Ace
+- Phantom
+- Legionnaire
+- Nosferatu
+- Breacher
+- Cataphract
+- Engineer
+- Specter
 ## Support
-
+- Cache
+- Technician
+- Carrier
+- Sergeant
+- Amplifier
+- Mirage
+- Scout
+- Support
 ### Templates
-
+- Grunt
 # Downfall Group
 
 Même troupe que IPS-Northstar avec en plus :
@@ -41,7 +62,7 @@ Même troupe que IPS-Northstar avec en plus :
 ## Defender
 
 ## Striker
-
+- Assassin
 ## Support
 
 ### Templates

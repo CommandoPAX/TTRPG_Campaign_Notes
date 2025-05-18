@@ -26,13 +26,11 @@
 - Warden
 - Reaver
 - Fortress
-- Spite
 - Bastion
 - Demolisher
 - Goliath
 - Pyro
 ## Striker
-- Indomitable
 - Ogre
 - Legionnaire
 - Avenger
