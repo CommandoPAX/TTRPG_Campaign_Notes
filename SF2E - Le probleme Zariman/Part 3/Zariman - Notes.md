@@ -244,34 +244,45 @@ Les Volonté Fragmentée se concentre sur le fait d'attaquer la Volonté Suprêm
 ```pf2e-stats
 # Volonté Suprême - Phase 3
 ## 15
+
 ---
 
 ==gargantuan== ==monitor== ==drift== ==construct==  
-Perception +29; Truesight  
-Skills  
+**Perception** +29; Truesight  
 Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6  
-AC 36; Fort +26, Ref +20, Will +32  
-HP 210; Immunities All  
-Speed 0  
-Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
-Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
-Arcane Spells DC 36, attack +28; 7th World Warp (at will);
+
+---
+
+**AC** 36; **Fort** +26, **Ref** +20, **Will** +32  
+**HP** 210
+**Speed** 0  
+
+**Arcane Spells** DC 36, attack +28; 7th World Warp (at will);
 
 ```
 ```pf2e-stats
 # Volonté Fragmentée - Phase 3
 ## 13
+
+---
+
+==Medium== ==Construct== ==Mindless== ==Drift==
 ```
 ## Phase 4
+La réalité simulé par la Volonté Suprême est maintenant en pleine effondrement, une porte s'ouvre du côté le plus éloignée des PJ. Traverser cette porte est leur seule issue.
 ```pf2e-stats
 # Volonté Suprême - Phase 4
 ## 16
+
 ---
-Volonté Suprême - Phase 2 creature 16  
-gargantuan monitor drift construct  
+ 
+==gargantuan== ==monitor== ==drift== ==construct==  
 Perception +30; Truesight  
 Skills  
 Str -4, Dex -4, Con +5, Int +10, Wis +10, Cha +6  
+
+---
+
 AC 38; Fort +28, Ref +22, Will +33  
 HP 221; Immunities All  
 Speed 0  
@@ -282,4 +293,8 @@ Arcane Spells DC 37, attack +29; 7th World Warp (at will);
 ```pf2e-stats
 # Volonté Fragmentée - Phase 4
 ## 14
+
+---
+
+==Medium== ==Construct== ==Mindless== ==Drift==
 ```
