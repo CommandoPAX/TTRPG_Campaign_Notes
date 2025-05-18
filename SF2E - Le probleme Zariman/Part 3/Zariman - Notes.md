@@ -163,14 +163,23 @@ Ayleth n'empêchant plus la simulation de s'arrêter, les PJ vont avoir de plus 
 Pour déterminer si elle la simulation est une réussite ou un échec, la Volonté Suprême va soumettre le groupe à une série de test basé sur leurs expériences passées.
 En cas d'échec, ils risquent l'anéantissement.
 
+https://monster.pf2.tools/
+
 ## Phase 1
+La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
 ```pf2e-stats
-Volonté Suprême - Phase 1 creature 13  
-gargantuan monitor drift construct  
-Perception +26; Truesight  
-Skills  
-Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +5  
-Labyrinthe du Zariman (Drift)  
+# Volonté Suprême - Phase 1
+## 13
+
+---
+
+==gargantuan== ==monitor== ==drift== ==construct==  
+**Perception** +26; Truesight   
+**Str** -4, **Dex** -4, **Con** +4, **Int** +9, **Wis** +9, **Cha** +5
+
+---
+
+**Labyrinthe du Zariman** (Drift)  
 When this layer appears, draw a 3x3 grid – the labyrinth – on a piece of paper and sequentially mark the rows A/B/C and the columns 1/2/3. Secretly note down the coordinates of two of the nine spaces (i.e., A1, B3, etc.). As a quick action, characters adjacent to the layer or one of its shards can make two guesses about which spaces in the labyrinth contain a mark. Tell them if they are correct or not. When a character guesses both marks correctly in the same attempt, the layer is destroyed. For each incorrect guess, the Eidolon uses INCORRECT against them as a reaction, ignoring the 1/turn limit. Each target (i.e., the Eidolon or one of its shards) can only be used to guess once per round.  
   
 AC 33; Fort +23, Ref +18, Will +29  
