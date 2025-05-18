@@ -12,5 +12,3 @@
 ## Striker
 
 ## Support
-
-# Downfall Group
