@@ -165,8 +165,11 @@ En cas d'échec, ils risquent l'anéantissement.
 
 https://monster.pf2.tools/
 
+La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénère à chaque nouvelle phase.
+
 ## Phase 1
 La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
+Chaque Volonté 
 ```pf2e-stats
 # Volonté Suprême - Phase 1
 ## 13
@@ -178,7 +181,7 @@ La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers
 **Str** -4, **Dex** -4, **Con** +4, **Int** +9, **Wis** +9, **Cha** +5
 
 ---
-
+**Boss final** : La Volonté Suprême lance deux fois l'initiative et joue donc deux fois.
 **Labyrinthe du Zariman** (Drift)  
 When this layer appears, draw a 3x3 grid – the labyrinth – on a piece of paper and sequentially mark the rows A/B/C and the columns 1/2/3. Secretly note down the coordinates of two of the nine spaces (i.e., A1, B3, etc.). As a quick action, characters adjacent to the layer or one of its shards can make two guesses about which spaces in the labyrinth contain a mark. Tell them if they are correct or not. When a character guesses both marks correctly in the same attempt, the layer is destroyed. For each incorrect guess, the Eidolon uses INCORRECT against them as a reaction, ignoring the 1/turn limit. Each target (i.e., the Eidolon or one of its shards) can only be used to guess once per round.  
   
@@ -190,11 +193,21 @@ Arcane Spells DC 33, attack +25; 7th World Warp (at will);
 INCORRECT [[R]]  
 La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 ```
+```pf2e-stats
+# Volonté Fragmentée - Phase 1
+## 11
+---
+==Medium== ==Construct== ==Mindless== ==Drift==
+```
+
 ## Phase 2
 ```pf2e-stats
 # Volonté Suprême - Phase 2 - Locus-1
 ## 14
+
 ---
+
+==gargantuan== ==monitor== ==drift== ==construct==  
 
 Volonté Suprême - Phase 2 creature 14  
 gargantuan monitor drift construct  
@@ -208,6 +221,10 @@ Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental
 Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
 Arcane Spells DC 34, attack +26; 7th World Warp (at will);
 
+```
+```pf2e-stats
+# Volonté Fragmentée - Phase 2
+## 12
 ```
 ## Phase 3
 ```pf2e-stats
@@ -227,6 +244,10 @@ Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire
 Arcane Spells DC 36, attack +28; 7th World Warp (at will);
 
 ```
+```pf2e-stats
+# Volonté Fragmentée - Phase 3
+## 13
+```
 ## Phase 4
 ```pf2e-stats
 # Volonté Suprême - Phase 4
@@ -243,4 +264,8 @@ Speed 0
 Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
 Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
 Arcane Spells DC 37, attack +29; 7th World Warp (at will);
+```
+```pf2e-stats
+# Volonté Fragmentée - Phase 4
+## 14
 ```
