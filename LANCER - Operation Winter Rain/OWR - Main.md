@@ -3,4 +3,4 @@
 - Legionnaire
 
 # Règles optionnelles
-- Manna System
+- Manna (The Long Rim)
