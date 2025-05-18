@@ -159,24 +159,73 @@ Ayleth ne protégeant plus la simulation, il est l'heure pour la Volonté Suprê
 
 # Session 3 - La Volonté Suprême
 
+## Phase 1
 ```pf2e-stats
-# Volonté Suprême - Phase 1
-## 13
----
-
+Volonté Suprême - Phase 1 creature 13  
+gargantuan monitor drift construct  
+Perception +26; Truesight  
+Skills  
+Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +5  
+Labyrinthe du Zariman (Drift)  
+When this layer appears, draw a 3x3 grid – the labyrinth – on a piece of paper and sequentially mark the rows A/B/C and the columns 1/2/3. Secretly note down the coordinates of two of the nine spaces (i.e., A1, B3, etc.). As a quick action, characters adjacent to the layer or one of its shards can make two guesses about which spaces in the labyrinth contain a mark. Tell them if they are correct or not. When a character guesses both marks correctly in the same attempt, the layer is destroyed. For each incorrect guess, the Eidolon uses INCORRECT against them as a reaction, ignoring the 1/turn limit. Each target (i.e., the Eidolon or one of its shards) can only be used to guess once per round.  
+  
+AC 33; Fort +23, Ref +18, Will +29  
+HP 0; Immunities All  
+Speed 0  
+Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
+Arcane Spells DC 33, attack +25; 7th World Warp (at will);  
+INCORRECT [[R]]  
+La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 ```
+##
 ```pf2e-stats
 # Volonté Suprême - Phase 2 - Locus-1
 ## 14
 ---
+
+Volonté Suprême - Phase 2 creature 14  
+gargantuan monitor drift construct  
+Perception +28; Truesight  
+Skills  
+Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +5  
+AC 35; Fort +25, Ref +19, Will +30  
+HP 195; Immunities All  
+Speed 0  
+Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
+Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
+Arcane Spells DC 34, attack +26; 7th World Warp (at will);
+
 ```
 ```pf2e-stats
 # Volonté Suprême - Phase 3
 ## 15
 ---
+Volonté Suprême - Phase 2 creature 15  
+gargantuan monitor drift construct  
+Perception +29; Truesight  
+Skills  
+Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6  
+AC 36; Fort +26, Ref +20, Will +32  
+HP 210; Immunities All  
+Speed 0  
+Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
+Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
+Arcane Spells DC 36, attack +28; 7th World Warp (at will);
+
 ```
 ```pf2e-stats
 # Volonté Suprême - Phase 4
 ## 16
 ---
+Volonté Suprême - Phase 2 creature 16  
+gargantuan monitor drift construct  
+Perception +30; Truesight  
+Skills  
+Str -4, Dex -4, Con +5, Int +10, Wis +10, Cha +6  
+AC 38; Fort +28, Ref +22, Will +33  
+HP 221; Immunities All  
+Speed 0  
+Ranged [[A]] réalité corrompu +27, Damage 3d8+14 mental  
+Ranged [[A]] réalité brulante +25, Damage 3d10+16 fire  
+Arcane Spells DC 37, attack +29; 7th World Warp (at will);
 ```
