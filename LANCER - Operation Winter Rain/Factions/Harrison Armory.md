@@ -14,8 +14,15 @@
 - Broadcaster
 - Cryogen
 - Firebug
+- Blackguard
+- Pistolero
+- Termite
+- Morningstar
+- Barricade
 ## Defender
-
+- Scrapper
+- Warden
+- 
 ## Striker
 
 ## Support
