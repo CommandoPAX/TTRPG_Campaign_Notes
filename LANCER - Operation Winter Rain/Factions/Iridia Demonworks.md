@@ -5,13 +5,26 @@ But once something has been discovered, it turns out, it’s very hard to put it
 
 # NPCs
 ## Artillery
-
+- Fusillade
+- Resonant
 ## Biological
-
+- Squad
+- Parafauna
 ## Controller
-
+- Broadcaster
+- Chameleon
+- Cryogen
+- Directive
+- Firebug
+- Oracle
 ## Defender
-
+- Luminant
+- Sacrificial
+- 
 ## Striker
-
+- Angel
+- Doppelganger
+- Indomitable
 ## Support
+- Cache
+- Memoria
