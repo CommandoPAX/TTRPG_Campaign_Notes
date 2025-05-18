@@ -63,7 +63,6 @@ together.
 - Dataform
 - Infiltrator
 - Swarmhost
-- Spec Op
 - Puppeteer
 - RPV
 - Vehicle

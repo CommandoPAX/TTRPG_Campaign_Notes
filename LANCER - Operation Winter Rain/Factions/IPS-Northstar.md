@@ -1,9 +1,6 @@
 # Description
 
 # NPCs
-
-Focus sur les unités lourdes et les unités mobiles
-
 ## Artillery
 
 ## Biological
@@ -19,6 +16,8 @@ Focus sur les unités lourdes et les unités mobiles
 ### Templates
 
 # Downfall Group
+
+Même troupe que IPS-Northstar avec en plus :
 
 ## Artillery
 

@@ -51,3 +51,12 @@
 - Priest
 - Support
 ### Templates
+- Grunt, Veteran, Elite, Ultra
+- Security
+- Industrial
+- Spec Op
+- Commander
+- RPV
+- Mercenary
+- Spacer
+- Vehicle
