@@ -294,5 +294,5 @@ Arcane Spells DC 37, attack +29; 7th World Warp (at will);
 
 Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "Le Mixeur" étant écris sur un néon accroché au mur. Des écrans sur les murs semblent montrer une centaine de réalité différente. Les murs et couloir ressemble trait pour trait à ceux du Zariman qu'ils ont visité il y a quelques années.
 
-Un androïde, habillé en barman vintage leur fait signe, et leur propose un verre.
+Un humain, ressemblant à Jean-Marie Bigard habillé en barman vintage leur fait signe, et leur propose un verre.
 [FIN]
