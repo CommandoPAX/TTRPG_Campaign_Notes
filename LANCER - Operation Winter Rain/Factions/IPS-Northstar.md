@@ -57,8 +57,8 @@ IPS-Northstar (IPS-N) was created from the merger of two civilian interstellar f
 - Mercenary
 - Pirate
 # Downfall Group
-
-Même troupe que IPS-Northstar avec en plus :
+The danger inherent in telling someone something is that they will believe you. The shadowy rogue subsidiary of IPS-N “known” as DOWNFALL has a rather plain
+beginning on paper, which paints an official role in predictive investment, pre-emptive military intervention, corporate espionage, and economic sabotage. However, the spiritual beginning of DOWNFALL is a simple statement: “We endorse and support the mission of Albatross.”
 
 ## Artillery
 - Sniper
