@@ -169,7 +169,7 @@ La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénèr
 
 ## Phase 1
 La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
-Chaque Volonté 
+Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du Zariman**.
 ```pf2e-stats
 # Volonté Suprême - Phase 1
 ## 13
@@ -202,18 +202,17 @@ La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 
 ## Phase 2
 ```pf2e-stats
-# Volonté Suprême - Phase 2 - Locus-1
+# Volonté Suprême - Phase 2
 ## 14
 
 ---
 
 ==gargantuan== ==monitor== ==drift== ==construct==  
+**Perception** +28; Truesight  
+**Str** -4, **Dex** -4, **Con** +4, **Int** +9, **Wis** +9, **Cha** +5  
 
-Volonté Suprême - Phase 2 creature 14  
-gargantuan monitor drift construct  
-Perception +28; Truesight  
-Skills  
-Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +5  
+---
+
 AC 35; Fort +25, Ref +19, Will +30  
 HP 195; Immunities All  
 Speed 0  
