@@ -10,6 +10,8 @@
 - MBT
 - Bombard
 - Rainmaker
+## Biological
+- Squad
 ## Controller
 - Broadcaster
 - Cryogen
@@ -22,9 +24,30 @@
 ## Defender
 - Scrapper
 - Warden
-- 
+- Reaver
+- Fortress
+- Spite
+- Bastion
+- Demolisher
+- Goliath
+- Pyro
 ## Striker
-
+- Indomitable
+- Ogre
+- Legionnaire
+- Avenger
+- Assault
+- Berzerker
+- Breacher
+- Engineer 
+- Scourer
 ## Support
-
+- Chessmaster
+- Harvester
+- Technician
+- Carrier
+- Sergeant
+- Aegis
+- Priest
+- Support
 ### Templates
