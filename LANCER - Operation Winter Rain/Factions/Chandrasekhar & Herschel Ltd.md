@@ -35,13 +35,21 @@ together.
 - Archon
 - Harrier
 - Eclipse
+- Spite
 ## Striker
 - Ogre
 - Phantom
 - Valkyrie
+- Legionnaire
+- Nosferatu
+- Necromancer
+- Lurker
+- Scourer
+- Specter
 ## Support
 - Carrier
 - Sergeant
+- Memoria
 
 ### Templates
 - 
