@@ -176,12 +176,11 @@ La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénèr
 ## Phase 1
 La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
 Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du Zariman**.
-
 ```encounter 
-name: Bataille finale
+name: Phase 1
 creatures :
-- 1: Volonté Suprême - Phase 1, 0, 33, 26
-- 5: Volonté Fragmentée
+- 2: Volonté Suprême, 0, 33, 26
+- 5: Volonté Fragmentée, 0, 0, 21
 ```
 ```pf2e-stats
 # Volonté Suprême - Phase 1
@@ -210,12 +209,20 @@ La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 # Volonté Fragmentée - Phase 1
 ## 11
 ---
+
 ==Medium== ==Construct== ==Mindless== ==Drift==
+**Perception** +21
 ```
 ## Phase 2
 La Volonté Suprême projette une roue de différentes couleurs : rouge (feu), bleu clair (cold), vert (acide), bleu foncé (électrique), gris (physical), rose (sonic). 
 La Volonté Suprême est vulnérable à l'élement associé à la couleur et immunisé aux restes. A chaque fois qu'une vulnérabilité est frappée, la roue avance d'un cran.
 Les Volonté Fragmentée sont immunisé au type de dégât affiché sur la roue, mais vulnérable au reste. Lorsqu'elles sont touchés, elles avancent la roue jusqu'au type de dégâts correspondant.
+```encounter 
+name: Phase 2
+creatures :
+- 2: Volonté Suprême, 0, 35, 28
+- 5: Volonté Fragmentée, 0, 0, 22
+```
 ```pf2e-stats
 # Volonté Suprême - Phase 2
 ## 14
@@ -245,14 +252,20 @@ Les Volonté Fragmentée sont immunisé au type de dégât affiché sur la roue,
 ```pf2e-stats
 # Volonté Fragmentée - Phase 2
 ## 12
-
 ---
 
 ==Medium== ==Construct== ==Mindless== ==Drift==
+**Perception** +22
 ```
 ## Phase 3
 La Volonté Suprême se lie aux PJ, tout les dégâts qui lui sont infligé sont répartis entre les PJ. Tout les dégâts infligés aux PJ sont envoyé à la Volonté Suprême.
 Les Volonté Fragmentée se concentre sur le fait d'attaquer la Volonté Suprême.
+```encounter 
+name: Phase 3
+creatures :
+- 2: Volonté Suprême, 0, 36, 29
+- 5: Volonté Fragmentée, 0, 0, 23
+```
 ```pf2e-stats
 # Volonté Suprême - Phase 3
 ## 15
@@ -275,14 +288,20 @@ Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6
 ```pf2e-stats
 # Volonté Fragmentée - Phase 3
 ## 13
-
 ---
 
 ==Medium== ==Construct== ==Mindless== ==Drift==
+**Perception** +23
 ```
 ## Phase 4
 La réalité simulé par la Volonté Suprême est maintenant en pleine effondrement, une porte s'ouvre du côté le plus éloignée des PJ. Traverser cette porte est leur seule issue.
 L'incarnation de la Volonté Suprême, devenue instable avec l'effondrement de la simulation, attaque en projetant des vagues d'énergies frappant tout le monde et attirant les PJ vers elle (4 cases à chaque fois).
+```encounter 
+name: Bataille finale
+creatures :
+- 2: Volonté Suprême, 0, 38, 30
+- 5: Volonté Fragmentée, 0, 0, 21
+```
 ```pf2e-stats
 # Volonté Suprême - Phase 4
 ## 16
