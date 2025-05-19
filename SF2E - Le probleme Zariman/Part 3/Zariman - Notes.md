@@ -296,3 +296,10 @@ Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "L
 
 Un humain, ressemblant à Jean-Marie Bigard habillé en barman vintage leur fait signe, et leur propose un verre.
 [FIN]
+
+```encounter 
+name: test
+- 3: Goblin 
+- 5: Alice
+```
+
