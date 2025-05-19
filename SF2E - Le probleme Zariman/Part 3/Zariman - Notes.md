@@ -298,7 +298,8 @@ Un humain, ressemblant à Jean-Marie Bigard habillé en barman vintage leur fait
 [FIN]
 
 ```encounter 
-name: test
+name: Test Encounter
+creatures :
 - 3: Goblin 
 - 5: Alice
 ```
