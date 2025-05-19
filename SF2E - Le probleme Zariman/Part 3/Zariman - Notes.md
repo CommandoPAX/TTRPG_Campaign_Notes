@@ -110,6 +110,8 @@
 
 Le transpondeur dans le corps du golem d'Adamantine va attirer Ayleth et les PJ vont devoir se fight dans une forêt contre le dragon.
 
+
+
 ```encounter 
 name: Bataille contre Ayleth
 creatures :
@@ -297,10 +299,9 @@ Str -4, Dex -4, Con +4, Int +9, Wis +9, Cha +6
 La réalité simulé par la Volonté Suprême est maintenant en pleine effondrement, une porte s'ouvre du côté le plus éloignée des PJ. Traverser cette porte est leur seule issue.
 L'incarnation de la Volonté Suprême, devenue instable avec l'effondrement de la simulation, attaque en projetant des vagues d'énergies frappant tout le monde et attirant les PJ vers elle (4 cases à chaque fois).
 ```encounter 
-name: Bataille finale
+name: Phase 4
 creatures :
 - 2: Volonté Suprême, 0, 38, 30
-- 5: Volonté Fragmentée, 0, 0, 21
 ```
 ```pf2e-stats
 # Volonté Suprême - Phase 4
@@ -328,11 +329,4 @@ Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "L
 
 Un humain, ressemblant à Jean-Marie Bigard habillé en barman vintage leur fait signe, et leur propose un verre.
 [FIN]
-
-```encounter 
-name: Test Encounter
-creatures :
-- 3: Goblin 
-- 5: Alice
-```
 
