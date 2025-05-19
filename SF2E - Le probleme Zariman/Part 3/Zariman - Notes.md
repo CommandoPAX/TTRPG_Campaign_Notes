@@ -109,6 +109,12 @@
 # Session 2 - Bataille contre Ayleth
 
 Le transpondeur dans le corps du golem d'Adamantine va attirer Ayleth et les PJ vont devoir se fight dans une forêt contre le dragon.
+
+```encounter 
+name: Bataille contre Ayleth
+creatures :
+- Ayleth, 280, 35, +29
+```
 ```pf2e-stats
 # Ayleth
 ## 16
@@ -170,6 +176,13 @@ La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénèr
 ## Phase 1
 La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
 Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du Zariman**.
+
+```encounter 
+name: Bataille finale
+creatures :
+- 1: Volonté Suprême - Phase 1, 0, 33, 26
+- 5: Volonté Fragmentée
+```
 ```pf2e-stats
 # Volonté Suprême - Phase 1
 ## 13
