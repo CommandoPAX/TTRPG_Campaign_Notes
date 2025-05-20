@@ -6,6 +6,5 @@ découvrir ce qui est arrivé au Zariman. En plus, 5000 crédits/info chacun per
 Ce ne sont pas les seuls a avoir été engagé mais ce seront les seuls a en revenir.
 
 [[Part 1 - L'exploration du Zariman]]
-[[Part 2 - Déphasage temporel]]
-[[Part 3 - Fissure dans le drift]]
-[[Part 4 - Combat dans Alluvion]]
+
+

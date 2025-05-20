@@ -44,3 +44,5 @@ Aft 0
 #### Locus-1
 
 37 HP
+
+[[Campaign Notes/SF2E - Le probleme Zariman/Part 2/Part 0 - Synopsis|Part 0 - Synopsis]]

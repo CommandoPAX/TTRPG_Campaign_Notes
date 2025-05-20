@@ -74,3 +74,5 @@ CompEnt/ChiwaTech les informe qu'un immense pic énergétique à été détecté
 Arusu informe sur canal privé que les coordonnées correspondent à celle du Zariman. 
 
 CompEnt /ChiwaTech les conseille de partir immédiatement en direction de l'anomalie. Leur MS ont déjà été chargé à l'intérieur du Mars.
+
+[[Part 3 - Fissure dans le drift]]

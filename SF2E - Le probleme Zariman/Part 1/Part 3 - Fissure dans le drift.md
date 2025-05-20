@@ -55,5 +55,6 @@ Si un PJ tente de lui parler, le prêtre se tourne vers lui et inflige shaken pe
 A la fin de la rencontre, le prêtre rentre dans un murs et l'espace se déchire à son emplacement pour le laisser passer. 
 
 Un objet non identifié par les PJ s'écrase dans le temple de Triune au loin.
+[[Part 4 - Combat dans Alluvion]]
 
 **Fin de session**

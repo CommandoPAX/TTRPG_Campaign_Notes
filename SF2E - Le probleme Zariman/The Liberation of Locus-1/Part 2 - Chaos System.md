@@ -27,3 +27,5 @@ Aaron : Fusil d'assaut (F)
 Gwen : crystal de solarien
 Olivier : pistolet (A)
 Fabien : générateur de grenade
+
+[[Part 3 - Battle for Locus-1]]

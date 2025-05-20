@@ -14,3 +14,6 @@ Intro de la prochaine campagne :
 - Présence de rumeurs indiquant un parasite mystérieux habitant la sphère creuse d'astéroïde autour de Locus
 
 Mettre une porte chez les pirates qui s'ouvrent avec le deck
+
+[[Part 1 - Four Alarms]]
+

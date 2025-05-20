@@ -13,5 +13,5 @@
 - Violences interraciales ont éclaté à cause de ces différences, races intemporelles convoités par factions majeures pour permettre de contacter l'autre côté
 - Il s'est écoulé 60 jours dans référence (30 dans l'autre) avant l'arrivée des 
 
-
+[[Calendrier]]
 

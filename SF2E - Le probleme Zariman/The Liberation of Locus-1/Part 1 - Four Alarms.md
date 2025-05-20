@@ -56,3 +56,5 @@ Note de fin de part :
 - N'ont pas aidé avec le dino mais ils l'ont attaqué
 - Ont appréhender le pirate de l'espace
 - Kerchak a reconnu les meurtriers de son groupe 
+
+[[Part 2 - Chaos System]]

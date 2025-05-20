@@ -40,3 +40,5 @@ PJ Aaron a des flash de la vie d'autres personnes a intervalle régulier --> tra
 S'il lui demande ce qui s'est passé, elle répond juste qu'Il les a trahis
 
 Quand reviennent a la station absalom, plusieurs années se sont écoulés depuis leur départ.
+
+[[Part 2 - Déphasage temporel]]

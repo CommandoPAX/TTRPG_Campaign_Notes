@@ -22,3 +22,5 @@ Couloir n'a qu'une seule autre porte, lorsqu'ils l'ouvrent se font TP dans l'esp
 Zariman active ses propulseurs de saut et disparait cette fois sans laisser de trace. 
 
 Fin de la campagne et GG. 
+
+[[Introduction]]
