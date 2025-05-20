@@ -13,5 +13,12 @@
 - Violences interraciales ont éclaté à cause de ces différences, races intemporelles convoités par factions majeures pour permettre de contacter l'autre côté
 - Il s'est écoulé 60 jours dans référence (30 dans l'autre) avant l'arrivée des 
 
+[[Faction - Gouvernement]]
+[[Faction - La Pièce Manquante]]
+[[Faction mineur - Ligue du spatioport]]
+[[Faction mineur - Equipe de recherche]]
+[[Faction mineur - Médecins sans horloges]]
+[[Faction mineur - Paysans contre le temps (PCT)]]
+
 [[Calendrier]]
 
