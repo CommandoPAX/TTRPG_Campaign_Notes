@@ -35,3 +35,7 @@ Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna
 
 [[Operation Solstice Rain]]
 [[Operation Winter Scar]]
+
+# Liste des personnages
+
+[[Characters]]

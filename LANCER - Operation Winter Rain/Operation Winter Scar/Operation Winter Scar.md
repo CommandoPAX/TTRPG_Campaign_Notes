@@ -2,4 +2,8 @@
 - [[C&H Ltd]]
 - [[Harrison Armory]]
 - [[IPS-Northstar]]
-- [[Irid]]
+- [[Iridia Demonworks]]
+- [[Magnum Opus Interstellar]]
+- [[Smith-Shimano Corpro]]
+
+[[=Template]] pour créer rapidement des factions.
