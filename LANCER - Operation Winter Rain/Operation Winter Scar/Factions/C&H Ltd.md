@@ -1,3 +1,4 @@
+#Faction
 # Description
 Chandrasekhar & Herschel is one of the youngest Galactic-Tier corporations to offer specialty mech licenses to qualified pilots. The company was founded by Jun Chandrasekhar, a gladiator pilot and revolutionary leader, along with former racing pilot
 Mattias Herschel. The initial license of incorporation was granted to Chandrasekhar as a

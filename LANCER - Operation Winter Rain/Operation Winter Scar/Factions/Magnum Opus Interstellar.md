@@ -1,3 +1,4 @@
+#Faction
 # Description
 Magnum Opus Interstellar is one of the longest- lasting design companies in the Union that has not been absorbed by one of the major corporations. The reason for this despite the company’s rather small size is because Magnum Opus Interstellar are a premier
 developer of new components and designs for blink gates, keeping them stable and safe for many systems. This contract directly with the DoIT itself has allowed it to maintain independence and resist attempts to buy it out several times.

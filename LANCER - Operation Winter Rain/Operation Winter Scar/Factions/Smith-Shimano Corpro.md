@@ -1,3 +1,4 @@
+#Faction
 # Description
 Smith-Shimano Corpro (SSC) is the second-oldest corporation in the galaxy, preceded only by GMS. Founded by Cartwright Smith and Shimano Hideyoshi, SSC’s emphasis on private stellar and interstellar travel, the fantastic wealth of its founders, and favorable contracts within Union’s First Committee, Smith-Shimano quickly became an early leader in the race to develop sublight, downwell, and EVA vehicles. SSC grew throughout Union’s First Expansion Period, managing the majority of all private and corporate contracts’ design, outfitting, and clinical needs. Over time, the corporation diversified to specialize in bio-bespoke, long-range scout suits personalized hard suits, for those with the manna to afford them.
 
