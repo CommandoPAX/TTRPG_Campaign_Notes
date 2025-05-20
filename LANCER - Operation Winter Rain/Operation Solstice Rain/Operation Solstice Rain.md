@@ -19,7 +19,11 @@ A l'instant où le brouillage se coupe, tout  est calme pendant un instant avant
 
 Il faut encore quelque seconde pour que les comms soient entièrement rétabli, mais une fois que c'est le cas, vous comprenez que les forces du LSA, soutenu par Union, continue leur avancée dans le district central.
 
-Vous avez à peine le temps de vous reposer qu'une voix familière retentit à travers les communications : 
+Vous avez à peine le temps de vous reposer qu'une voix inconnue retentit à travers les communications : 
+
+[Military Narrator]
+
+> Ici le sergent Callas pour le euh... commandement d'Union. Mon escouade vient juste de sécuriser le hall des Consuls an
 
 # Combat 5 - Leviathan
 
