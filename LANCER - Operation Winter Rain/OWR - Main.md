@@ -2,7 +2,7 @@
 - Lancer Enhanced Combat
 - Legionnaire
 - Field Guide to Suldan (WARNING : Specialty license n'ont pas les bons rangs dans COMP/CON)
-- Field Guide to Liminal Space
+- Field Guide to Liminal Space (Rasputin et sa licence sont ban)
 - Field Guide to Iridia
 
 # Règles optionnelles
