@@ -1,16 +1,17 @@
-#Faction
+#Faction 
 
+# Harrison Armory
 Représentant : [[G1 Michigan]]
 
-# Description
+## Description
 Harrison Armory enjoys a galaxy-wide reputation for the quality of its weapons and  defensive systems. The corpro-state previously specialized in ordnance and other armaments, making it reliant on competitors’ frames as mounts for its deluxe equipment; however, since the overthrow of Union’s Second Committee, Harrison Armory has broadened its product line to include an extensive range of peerless frontline frames. On the wave of this new success, the Armory has transformed into a burgeoning, imperial corpro-state, a mighty galactic power that directly administers a large number of Core worlds, orbitals, and colonial prospects – this is the Purview; all lands under the Armory’s command.
 
 By necessity of Harrison Armory’s imperial aims, its frames tend to be sturdy. More than that, Armory mechs are built to ensure overwhelming performance, embodying dominance and power in their brutal, geometric aesthetics. This fulfillment of this desire requires tremendous power, skill, and material strength.
 
 Harrison Armory licenses are perfect for pilots looking to field durable frontline mechs equipped with the most advanced weapons technology available.
 
-# NPCs
-## Artillery
+## NPCs
+### Artillery
 - Landship
 - Stormcaller
 - Titan
@@ -19,9 +20,9 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - MBT
 - Bombard
 - Rainmaker
-## Biological
+### Biological
 - Squad
-## Controller
+### Controller
 - Broadcaster
 - Cryogen
 - Firebug
@@ -30,7 +31,7 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Termite
 - Morningstar
 - Barricade
-## Defender
+### Defender
 - Scrapper
 - Warden
 - Reaver
@@ -39,7 +40,7 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Demolisher
 - Goliath
 - Pyro
-## Striker
+### Striker
 - Ogre
 - Legionnaire
 - Avenger
@@ -48,7 +49,7 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Breacher
 - Engineer 
 - Scourer
-## Support
+### Support
 - Chessmaster
 - Harvester
 - Technician
@@ -57,7 +58,7 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Aegis
 - Priest
 - Support
-### Templates
+#### Templates
 - Grunt, Veteran, Elite, Ultra
 - Security
 - Industrial
@@ -67,3 +68,4 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Mercenary
 - Spacer
 - Vehicle
+
