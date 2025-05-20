@@ -6,7 +6,7 @@ On s'est arrêté à la fin de ce combat.
 
 A l'instant où le brouillage se coupe, tout  est calme pendant un instant avant qu'une cacophonie de voix ne retentissent
 
-**PASSER
+[Battlefield Radio]
 
 > -Merde, on a un homme à terre-
 > -Contact à gauche, contact à droite-
@@ -15,7 +15,11 @@ A l'instant où le brouillage se coupe, tout  est calme pendant un instant avant
 > -DETRUISEZ MOI CE BATIMENT-
 > -Système en ligne-
 
+[Voix normale]
 
+Il faut encore quelque seconde pour que les comms soient entièrement rétabli, mais une fois que c'est le cas, vous comprenez que les forces du LSA, soutenu par Union, continue leur avancée dans le district central.
+
+Vous avez à peine le temps de vous reposer qu'une voix familière retentit à travers les communications : 
 
 # Combat 5 - Leviathan
 
