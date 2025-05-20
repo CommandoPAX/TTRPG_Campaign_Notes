@@ -1,4 +1,7 @@
 #Faction
+
+Représentant :
+
 # Description
 Alone in the void of space, Iridia was a peaceful jewel. Beneath the gaze of their goddess, Hestia, they prospered, with nobody wanting for anything. But, it was not to last. From the stars descended demons, and with that… life forever changed on the planet. Something terrible was about to awake.
 
