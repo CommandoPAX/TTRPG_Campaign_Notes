@@ -38,4 +38,4 @@ Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna
 
 # Liste des personnages
 
-[[Personnages - Main]]
+[[-Personnages - Main]]
