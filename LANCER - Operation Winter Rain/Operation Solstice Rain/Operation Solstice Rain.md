@@ -31,9 +31,10 @@ La voix de Rio le coupe d'un coup
 
 [Evil AI]
 
->J'ai un signal des implants du capitaine ! Elle bouge rapidement, semble se diriger vers une sorte de port
+>J'ai un signal des implants du capitaine ! Elle bouge rapidement, semble se diriger vers une sorte de port. J'vous envoie un transport, interceptez là !
 
-
+Quelques secondes plus tard, un transporteur d'Union se pose à côté de vous. Durant le voyage, vous pouvez observer les rangées de conteneur et d'entrepôt qui faisait le cœur de l'activité économique de Nov Elysia.
+Alors que vous vous rapprochez du signal, vous apercevez la raison pour laquelle les Vestans ont pu arriver dans la ville en si grand nombre sans être repéré : un immense sous-marin brise la surface de l'eau. Vous apercevez aussi la capitaine Farris et l'ambassadeur Bannerjee se faisant trainer de force vers le sous-marin. Il semblerait que la Souveraineté 
 
 # Combat 5 - Leviathan
 
