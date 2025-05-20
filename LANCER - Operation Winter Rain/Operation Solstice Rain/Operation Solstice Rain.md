@@ -23,7 +23,15 @@ Vous avez à peine le temps de vous reposer qu'une voix inconnue retentit à tra
 
 [Military Narrator]
 
-> Ici le sergent Callas pour le euh... commandement d'Union. Mon escouade vient juste de sécuriser le hall des Consuls an
+> Ici le sergent Callas pour le euh... commandement d'Union. Mon escouade vient juste de sécuriser le hall des Consuls et on a aucun signe des deux prioritaires ici. On vérifie avec les bunkers dans la zone pour voir s'ils n'ont pas été évacué mais pour l'instant on a rien-
+
+[Voix normale]
+
+La voix de Rio le coupe d'un coup
+
+[Mothership]
+
+
 
 # Combat 5 - Leviathan
 
