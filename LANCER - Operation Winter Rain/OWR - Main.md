@@ -33,10 +33,12 @@ Un autre manière d'utiliser la Manna. Vous pouvez louer une license (une seule)
 Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna.
 
 # Déroulé de la campagne
+- [[Operation Solstice Rain]]
+- [[Operation Winter Scar]]
 
-[[Operation Solstice Rain]]
-[[Operation Winter Scar]]
-
-# Liste des personnages
-
-[[-Personnages - Main]]
+# Composition du groupe
+- [[Heliades]]
+- [[Hornet]]
+- [[Polist]]
+- [[Sheray]]
+- [[Slipstream]]

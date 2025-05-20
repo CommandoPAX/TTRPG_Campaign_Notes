@@ -24,3 +24,7 @@ The mechs developed by SSC are known for their license exclusivity, appealing si
 - 
 ### Template
 - Grunt, Veteran, Elite, Ultra
+
+# PNJ Important
+## Lancers
+- [[Storm Raven]]
