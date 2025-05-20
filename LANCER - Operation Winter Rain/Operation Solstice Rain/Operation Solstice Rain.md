@@ -60,7 +60,9 @@ Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mis
 
 Alors que le transport qui vous a emmené s'apprête à se poser, un rayon de lumière brûlant fend l'air au dessus de vous, passant à travers les conteneurs et bâtiments comme s'il n'existait pas. L'explosion de plusieurs réservoirs d'essence créant des immenses boules de feu, le transporteur n'a d'autre choix que de virer brusquement pour les éviter. 
 
->
+A travers les conteneurs, vous apercevez brièvement le mécha qui a causé tout ca, juste avant qu'il ne se téléporte pour réapparaitre un peu plus loin. Sa visière se tourne vers vous et il semble vous fixer pendant un temps interminable.
+
+>Votre interférence se termine ici. Brûlez tout. Pas de survivant.
 
 # Combat 6 - Wake the Furies
 
