@@ -2,6 +2,7 @@
 # Point importants
 Nom : Laura "Lampetia"
 Background : Enthousiaste des NHPs
+Affiliation : Maison des Cendres
 
 # Biographie
 Lampetia, qui préfère qu'on la surnomme Laura pour plus de simplicité (et pour pour paraître moins ridicule) est une Lancer de 27ans plutôt désintéressé des conflits. Elle est consciente de son rôle, et du principe d'une boussole morale, mais ne présente au combat que dans le but de voir du nouvel armement, et car c'est dans ces situations qu'elle est le plus en symbiose avec sa _sœur_, Phaetusa.
@@ -20,6 +21,7 @@ Quand elle n'est pas en mission, Laura est rarement séparée de sa _soeur_, app
 Laura est une femme à l'air plutôt détachée, de par son apparence rarement entretenue, qui fait qu'elle porte souvent une veste légèrement trop petite pour elle, au dessus d'un T-shirt à l'air assez quelconque. Ses cheveux marrons sont souvent débroussaillés, car elle ne s'occupe d'eux que pour les couper, quand sa frange vient obscurcir sa vision. Ses yeux, d'une couleur bleu pâle, donne presque l'impression de passer à un bleu marine quand la jeune femme au corps légèrement frêle pour sa carrière trouve un intérêt à quelque chose.
 
 # Phaetusa
+Phaetusa est la NHP faisant partie intégrante des méchas que pilote Laura, et est, selon ses mots, son inséparable _soeur_, bien qu'il est inconnu si la NHP se considère comme telle. Elle fut d'abord rattachée à Laura dans le but de faciliter de servir de baby-sitter à la pilote, mais est maintenant pratiquement en symbiose avec celle-ci, au point que Laura n'hésite plus à lui prêter son corps si elle le souhaite. Ayant été conçue pour garder le moral d'une équipe, elle reste positive la majorité du temps, à un point que certains équipiers considèrent comme malsain, n'hésitant pas à faire des discussions quelconques avec n'importe qui dans des temps morts. Bien que cette dernière prit du temps à comprendre le concept de soeur, ainsi que l'affection, voir la dépendance qu'elle lui porte, elle lui est maintenant attachée, et lui donne parfois des ordres dans la vie de tous les jours, allant jusqu'à contrôler en partie la vie de sa co-pilote, pour des intentions connue d'elle seule, mais toujours d'une manière à ce que les sponsors ou sa "victime" n'aient aucune suspicion.
 
 ---
 
