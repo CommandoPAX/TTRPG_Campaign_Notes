@@ -51,7 +51,11 @@ Tout les renforts spawn en même temps à la fin du premier round.
 
 ## Victoire
 
-Les PJ réussissent à empêcher le Leviathan de partir et les dernières forces Vestanes présentes à bord sont obligés de se rendre sous la menac
+Les PJ réussissent à empêcher le Leviathan de partir et les dernières forces Vestans présentes à bord sont obligés de se rendre sous la menace. Le Capitaine Farris et l'Ambassadeur Bannerjee sain et sauf, il ne vous reste plus qu'à attendre l'extraction.
+
+## Défaite
+
+Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mission est un échec, il ne vous reste plus qu'à attendre l
 
 # Beat 4 - Nemesis Pyre
 
