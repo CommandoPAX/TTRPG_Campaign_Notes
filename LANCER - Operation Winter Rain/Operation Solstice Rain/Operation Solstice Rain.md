@@ -39,7 +39,6 @@ Quelques secondes plus tard, un transporteur d'Union se pose à côté de vous. 
 Alors que vous vous rapprochez du signal, vous apercevez la raison pour laquelle les Vestans ont pu arriver dans la ville en si grand nombre sans être repéré : un immense sous-marin brise la surface de l'eau. Vous apercevez aussi la capitaine Farris et l'ambassadeur Bannerjee se faisant trainer de force vers le sous-marin. Il semblerait que la Souveraineté ayant perdu le contrôle de la ville, tente de se replier avec des prisonniers de premier choix.
 
 # Combat 5 - Leviathan
-
 ## Objectif 
 
 Qu'il y ait plus de PJ que de PNJ dans la zone d'objectif à la fin du huitième tour.
@@ -55,9 +54,13 @@ Les PJ réussissent à empêcher le Leviathan de partir et les dernières forces
 
 ## Défaite
 
-Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mission est un échec, il ne vous reste plus qu'à attendre l
+Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mission est un échec, il ne vous reste plus qu'à attendre qu'on vienne vous chercher.
 
 # Beat 4 - Nemesis Pyre
+
+Alors que le transport qui vous a emmené s'apprête à se poser, un rayon de lumière brûlant fend l'air au dessus de vous, passant à travers les conteneurs et bâtiments comme s'il n'existait pas. L'explosion de plusieurs réservoirs d'essence créant des immenses boules de feu, le transporteur n'a d'autre choix que de virer brusquement pour les éviter. 
+
+>
 
 # Combat 6 - Wake the Furies
 
