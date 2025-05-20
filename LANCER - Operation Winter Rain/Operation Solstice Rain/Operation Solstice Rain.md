@@ -6,11 +6,16 @@ On s'est arrêté à la fin de ce combat.
 
 A l'instant où le brouillage se coupe, tout  est calme pendant un instant avant qu'une cacophonie de voix ne retentissent
 
+**PASSER
+
 > -Merde, on a un homme à terre-
 > -Contact à gauche, contact à droite-
 > -on vous entend haut et fort-
 > -Préparez-vous ils arrivent !-
-> -DETRUISEZ MOI CE BA
+> -DETRUISEZ MOI CE BATIMENT-
+> -Système en ligne-
+
+
 
 # Combat 5 - Leviathan
 
