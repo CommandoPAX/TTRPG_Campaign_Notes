@@ -1,4 +1,7 @@
 #Faction
+
+Représentant : [[G1 Michigan]]
+
 # Description
 Harrison Armory enjoys a galaxy-wide reputation for the quality of its weapons and  defensive systems. The corpro-state previously specialized in ordnance and other armaments, making it reliant on competitors’ frames as mounts for its deluxe equipment; however, since the overthrow of Union’s Second Committee, Harrison Armory has broadened its product line to include an extensive range of peerless frontline frames. On the wave of this new success, the Armory has transformed into a burgeoning, imperial corpro-state, a mighty galactic power that directly administers a large number of Core worlds, orbitals, and colonial prospects – this is the Purview; all lands under the Armory’s command.
 
@@ -64,7 +67,3 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Mercenary
 - Spacer
 - Vehicle
-
-# PNJ Important
-## Lancers
-- [[G1 Michigan]]

@@ -27,4 +27,4 @@ The mechs developed by SSC are known for their license exclusivity, appealing si
 
 # PNJ Important
 ## Lancers
-- [[Storm Raven]]
+- [[C4-617]]
