@@ -35,7 +35,7 @@ DC 17 Computer pour identifier que celui effectuant le test a participé activem
 Arusu conseille d'aller jusqu'au temple de Triune et de tenter de communiquer avec ce dernier
 
 Leurs méchas se sont amalgamés dans la soute d'Arusu pour former le mégazord.
-Un gardien d'Alluvion s'avance vers le Mars, doive le détruire pour avancer. Possibilité d'utiliser une arme du vaisseau (Twin Laser) durant le fight.
+Un [[Gardien d'Alluvion]] s'avance vers le Mars, doive le détruire pour avancer. Possibilité d'utiliser une arme du vaisseau (Twin Laser) durant le fight.
 
 ## Part 3-3 : Alluvion
 

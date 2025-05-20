@@ -62,9 +62,9 @@ Pact worlds :
 Une fois méchas construit, CompEnt / ChiwaTech leur propose un simulation d'entrainement extrêmement réaliste pour les aider à manipuler leur méchas. 
 
 Combat contre 3 autres MS (Tier 6)
-[Aerial](obsidian://open?vault=Campaign%20Notes&file=Le%20probl%C3%A8me%20Zariman%2FStatblock%2FAerial%20(Suletta%20Mercury))
-[Nu](obsidian://open?vault=Campaign%20Notes&file=Le%20probl%C3%A8me%20Zariman%2FStatblock%2FNu%20(Char%20Aznable))
-[FA - Thunderbolt](obsidian://open?vault=Campaign%20Notes&file=Le%20probl%C3%A8me%20Zariman%2FStatblock%2FFA%20-%20Thunderbolt%20(Io%20%26%20Flemming))
+[[Aerial (Suletta Mercury)]]
+[[Nu (Char Aznable)]]
+[[FA - Thunderbolt (Io & Flemming)]]
 
 ## Part 2-3 : Départ vers Aucturn
 

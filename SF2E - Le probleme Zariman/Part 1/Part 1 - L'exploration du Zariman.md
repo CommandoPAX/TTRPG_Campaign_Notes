@@ -29,7 +29,7 @@ Si scan les environs, voit que la région de l'espace dans laquelle il se trouve
 --> S'il se regarde, voit qu'ils sont devenus très légèrement transparent, le vaisseau aussi
 Arusu théorise que se doit être un effet secondaire de leur proximité avec le zariman.
 
-Propulseur drift est mort, mais le vaiseau a acquis un Propulseur classe néant, peuvent se déplacer instantanément où ils veulent mais prend 5 tours à charger
+Propulseur drift est mort, mais le vaiseau a acquis un [[Propulseur de classe Néant]], peuvent se déplacer instantanément où ils veulent mais prend 5 tours à charger
 Arusu ne communique plus après avoir réalisé que le drift est down.
 Vaisseau est à la dérive --> voit les autres débris commencer à bouger de manière coordonnée et des vaisseaux apparaissent depuis le vide (1 Transport, 2 Explorer hostile)
 Semble bizarre, sentiment de répulsion
