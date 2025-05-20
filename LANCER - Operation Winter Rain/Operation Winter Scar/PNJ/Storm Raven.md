@@ -1,7 +1,7 @@
 #Characters
 # Point importants
-Nom : Colonel Michigan
-Spécial : Lancer d'élite de H
+Nom : 
+Spécial : Lancer d'élite de [[Magnum Opus Interstellar]]
 
 # Biographie
 

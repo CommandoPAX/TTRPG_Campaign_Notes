@@ -1,3 +1,4 @@
+#Information 
 # Factions
 - [[C&H Ltd]]
 - [[Harrison Armory]]
@@ -5,5 +6,3 @@
 - [[Iridia Demonworks]]
 - [[Magnum Opus Interstellar]]
 - [[Smith-Shimano Corpro]]
-
-[[=Template]] pour créer rapidement des factions.

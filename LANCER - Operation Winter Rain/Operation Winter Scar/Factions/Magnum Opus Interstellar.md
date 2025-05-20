@@ -22,3 +22,7 @@ Magnum Opus designs are primarily defensively based, skilled in evasion and tric
 - 
 ### Template
 - Grunt, Veteran, Elite, Ultra
+
+# PNJ Important
+## Lancers
+- [[Storm Raven]]
