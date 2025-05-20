@@ -11,7 +11,6 @@ By necessity of Harrison Armory’s imperial aims, its frames tend to be sturdy.
 
 Harrison Armory licenses are perfect for pilots looking to field durable frontline mechs equipped with the most advanced weapons technology available.
 
-## NPCs
 ### Artillery
 - Landship
 - Stormcaller
@@ -59,7 +58,7 @@ Harrison Armory licenses are perfect for pilots looking to field durable frontli
 - Aegis
 - Priest
 - Support
-#### Templates
+### Templates
 - Grunt, Veteran, Elite, Ultra
 - Security
 - Industrial
@@ -87,7 +86,6 @@ Following the merger, IPS-N began the work of phasing out its fleets of late-mod
 
 IPS-N is closely associated with the Albatross, an anti-piracy and peacekeeping force known across the galaxy for its long history of humanitarian interventions. IPS-N supports the Albatross materially, providing it with chassis, ships, cutting-edge technology, and temporal rehabilitation worlds for its pilots and crews to retire in relative peace. The relationship is mutually beneficial; IPS-N makes a point to emphasize its close relationship to the Albatross in marketing campaigns and PR materials.
 
-## NPCs
 ### Artillery
 - Landship
 - Titan
@@ -133,7 +131,7 @@ IPS-N is closely associated with the Albatross, an anti-piracy and peacekeeping 
 - Mirage
 - Scout
 - Support
-#### Templates
+### Templates
 - Grunt, Veteran, Elite, Ultra
 - Partisan
 - Security
@@ -159,18 +157,17 @@ to land not the hardest hit, but the most accurate. Economy, precision, and sing
 
 The mechs developed by SSC are known for their license exclusivity, appealing silhouette, and exacting design. Their LUX-Iconic line of chassis are coveted, single-designer models, each unique to the pilot with the requisite licenses and access to afford them; as such, unlike other manufacturers, SSC frames tend to be longer-lasting in service, with more emphasis on retrofitting and repair than recycling and reproduction.
 
-# NPCs
-## Artillery
+### Artillery
 - 
-## Biological
+### Biological
 - 
-## Controller
+### Controller
 - 
-## Defender
+### Defender
 - 
-## Striker
+### Striker
 - 
-## Support
+### Support
 - 
 ### Template
 - Grunt, Veteran, Elite, Ultra

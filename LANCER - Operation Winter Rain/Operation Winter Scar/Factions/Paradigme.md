@@ -1,8 +1,9 @@
 #Faction 
+# DOWNFALL
 
 Représentant : 
 
-# Downfall Group
+## Description
 The danger inherent in telling someone something is that they will believe you. The  shadowy rogue subsidiary of IPS-N “known” as DOWNFALL has a rather plain beginning on paper, which paints an official role in predictive investment, pre-emptive military intervention, corporate espionage, and economic sabotage. However, the spiritual beginning of DOWNFALL is a simple statement: “We endorse and support the mission of Albatross.”
 
 The danger inherent in believing something is that you will act on that belief.
@@ -17,23 +18,23 @@ future efforts, sorely testing the loyalty of its pilots.
 DOWNFALL’s “Sinner” pattern-groups, fielded almost solely by their own agents or rebellions they back, are culled from aborted research in IPS-N’s own archives added to a pool of specifications and schematics stolen via their espionage efforts, and inspired by the success of HORUS p-g operations. Most take pains to resemble a more standardized chassis, generally from IPS-N, with the few slip-ups of operational security to date chalked up to ‘prototypes’. Still, it’s only a matter of time before DOWNFALL is formally discovered, and will have to take action to preserve its own existence. To this end, select mercenary groups - notably and especially including Albatross - have been given limited licensing in order to prepare the way for DOWNFALL’s emergence into the public sphere. Quietly, patiently, they gather networks of contacts, contractors, and resources ever so slightly
 separate from what they report and turn over to IPS-N, forming a new cloak for its mission: preserve Union, and bring glory to mankind.
 
-## Artillery
+### Artillery
 - Tout le roster IPS-N
 - Sniper
 - Operator
-## Controller
+### Controller
 - Tout le roster IPS-N
 - Chameleon
 - Nightmare
-## Defender
+### Defender
 - Tout le roster IPS-N
 - Eclipse
 - Ferryman
-## Striker
+### Striker
 - Tout le roster IPS-N
 - Assassin
 - Necromancer
-## Support
+### Support
 - Tout le roster IPS-N
 - Harvester
 - Leech
@@ -48,24 +49,23 @@ separate from what they report and turn over to IPS-N, forming a new cloak for i
 
 Représentant :
 
-# Description
+## Description
 Alone in the void of space, Iridia was a peaceful jewel. Beneath the gaze of their goddess, Hestia, they prospered, with nobody wanting for anything. But, it was not to last. From the stars descended demons, and with that… life forever changed on the planet. Something terrible was about to awake.
 
 The Iridian civilization at first crumpled beneath the assault, having not known violence. But eventually, with the aid of their goddess, they were able to replicate the armours that the invaders wore. And eventually… beyond. From Hestia’s forges, technology never before seen sprang to life, powered by demonic energies. The wrath of the planet, shaped into mechanical form, drove the invaders to a near-standstill, with hopes of soon returning back to the way that things once were.
 
 But once something has been discovered, it turns out, it’s very hard to put it back in the box…
 
-# NPCs
-## Artillery
+### Artillery
 - Fusillade
 - Resonant
 - Stormcaller
 - Phantasm
 - Sniper
-## Biological
+### Biological
 - Squad
 - Parafauna
-## Controller
+### Controller
 - Broadcaster
 - Chameleon
 - Cryogen
@@ -74,14 +74,14 @@ But once something has been discovered, it turns out, it’s very hard to put it
 - Oracle
 - Skulk
 - Living Battlefield
-## Defender
+### Defender
 - Luminant
 - Sacrificial
 - Swarmling
 - Eclipse
 - Ferryman
 - Warden
-## Striker
+### Striker
 - Angel
 - Doppelganger
 - Indomitable
@@ -91,7 +91,7 @@ But once something has been discovered, it turns out, it’s very hard to put it
 - Assassin
 - Cataphract
 - Ronin
-## Support
+### Support
 - Cache
 - Memoria
 - Soulwarden
