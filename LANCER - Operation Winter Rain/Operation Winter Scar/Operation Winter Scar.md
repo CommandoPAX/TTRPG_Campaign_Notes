@@ -1,11 +1,9 @@
 #Information 
 # Factions
 - [[C&H Ltd]]
-- [[Harrison Armory]]
-- [[IPS-Northstar]]
+- [[Corpro-states]]
 - [[Iridia Demonworks]]
 - [[Magnum Opus Interstellar]]
-- [[Smith-Shimano Corpro]]
 - [[Downfall Group]]
 
 # Plot général
