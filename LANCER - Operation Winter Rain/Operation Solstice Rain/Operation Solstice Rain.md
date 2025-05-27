@@ -59,6 +59,8 @@ Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mis
 
 ## Notes durant la session
 
+Les PJ ont gagné la sitrep. Le Barricade s'est enfui alors que tout ses alliés ont été détruit.
+
 # Beat 4 - Nemesis Pyre
 
 Alors que le transport qui vous a emmené s'apprête à se poser, un rayon de lumière brûlant fend l'air au dessus de vous, passant à travers les conteneurs et bâtiments comme s'il n'existait pas. L'explosion de plusieurs réservoirs d'essence créant des immenses boules de feu, le transporteur n'a d'autre choix que de virer brusquement pour les éviter. 
