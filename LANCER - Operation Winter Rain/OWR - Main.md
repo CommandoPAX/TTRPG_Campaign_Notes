@@ -35,7 +35,13 @@ Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna
 # Règle spéciale
 ## Escalader 
 
+Escalader un objet de taille x avec un mécha de taille y vous coute : [2x + 1 - y] déplacement.
 
+## Diagonale
+
+Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul la distance la plus grande entre la distance horizontale et verticale compte.
+
+## Point de vue et hauteur
 
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
