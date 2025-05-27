@@ -41,6 +41,10 @@ Escalader un objet de taille x avec un mécha de taille y vous coute : [2x + 1 -
 
 Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul la distance la plus grande entre la distance horizontale et verticale compte.
 
+## Quick tech adverse
+
+Les effets des quick tech adverses sont comptés comme des Condition pour tout les effets interagissant avec.
+
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
 - [[Operation Winter Scar]]
