@@ -32,6 +32,11 @@ Un autre manière d'utiliser la Manna. Vous pouvez louer une license (une seule)
 - 300 Mana : Rang 3
 Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna.
 
+# Règle spéciale
+## Escalader 
+
+
+
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
 - [[Operation Winter Scar]]
