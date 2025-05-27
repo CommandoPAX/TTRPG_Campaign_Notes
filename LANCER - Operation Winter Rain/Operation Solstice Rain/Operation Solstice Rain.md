@@ -5,7 +5,7 @@ On s'est arrêté à la fin de ce combat.
 
 # Beat 3 - Bootleg Play
 
-A l'instant où le brouillage se coupe, tout  est calme pendant un instant avant qu'une cacophonie de voix ne retentissent
+A l'instant où le brouillage se coupe, tout est calme pendant un instant avant qu'une cacophonie de voix ne retentissent
 
 [Battlefield Radio]
 
