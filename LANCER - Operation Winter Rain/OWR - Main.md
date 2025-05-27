@@ -32,8 +32,8 @@ Un autre manière d'utiliser la Manna. Vous pouvez louer une license (une seule)
 - 300 Mana : Rang 3
 Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna.
 
-# Règle spéciale
-## Escalader 
+# Règles homebrew
+## Escalader
 
 Escalader un objet de taille x avec un mécha de taille y vous coute : [2x + 1 - y] déplacement.
 
