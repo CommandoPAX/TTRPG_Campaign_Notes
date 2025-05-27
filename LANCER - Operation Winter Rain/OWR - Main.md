@@ -21,7 +21,7 @@ Chaque mission doit avoir au moins **1 objectif majeur et 2 objectifs mineurs** 
 
 ### Utilisation
 La Manna peut seulement être dépensé entre deux missions (Downtime)
-- 500 Manna : un rang de license d'un mecha
+- 500 Manna : un rang de license d'un mécha
 - 300 Manna : un talent
 - 200 Manna : +2 à un Trigger, +1 à un Mech skill
 
@@ -40,8 +40,6 @@ Escalader un objet de taille x avec un mécha de taille y vous coute : [2x + 1 -
 ## Diagonale
 
 Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul la distance la plus grande entre la distance horizontale et verticale compte.
-
-## Point de vue et hauteur
 
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
