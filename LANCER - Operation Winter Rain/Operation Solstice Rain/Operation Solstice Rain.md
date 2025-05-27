@@ -57,6 +57,8 @@ Les PJ réussissent à empêcher le Leviathan de partir et les dernières forces
 
 Le Leviathan s'enfonce sous l'eau, emmenant avec lui Farris et Bannerjee. La mission est un échec, il ne vous reste plus qu'à attendre qu'on vienne vous chercher.
 
+## Notes durant la session
+
 # Beat 4 - Nemesis Pyre
 
 Alors que le transport qui vous a emmené s'apprête à se poser, un rayon de lumière brûlant fend l'air au dessus de vous, passant à travers les conteneurs et bâtiments comme s'il n'existait pas. L'explosion de plusieurs réservoirs d'essence créant des immenses boules de feu, le transporteur n'a d'autre choix que de virer brusquement pour les éviter. 
