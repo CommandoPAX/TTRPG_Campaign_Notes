@@ -45,6 +45,10 @@ Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul
 
 Les effets des quick tech adverses sont comptés comme des Condition pour tout les effets interagissant avec.
 
+## Equipement exotique
+
+On ignorera la règle qui stipule que vous ne pouvez équiper que 2 équipements exotiques maximum.
+
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
 - [[Operation Winter Scar]]
