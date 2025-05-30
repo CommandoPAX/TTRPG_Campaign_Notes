@@ -8,7 +8,7 @@
 
 # Règles optionnelles
 - Manna (The Long Rim p.36)
-- ~~Bonds (Field Guide to Karrakin Trade Baronies)~~ Nous ne les utiliserons plus vu que je trouve qu'il manque d'interêt.
+- ~~Bonds (Field Guide to Karrakin Trade Baronies)~~ Nous ne les utiliserons plus vu que je trouve qu'il ajoute une complexité non-nécessaire. Et on les a pas utilisé de toute manière.
 
 ## Manna
 ### Obtention
@@ -34,27 +34,21 @@ Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna
 
 # Règles homebrew
 ## Escalader
-
 Escalader un objet de taille x avec un mécha de taille y vous coute : [2(x-y) + 1]  (min 1) déplacement.
 
 ## Diagonale
-
 Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul la distance la plus grande entre la distance horizontale et verticale compte.
 
 ## Quick tech adverse
-
 Les effets des quick tech adverses sont comptés comme des Condition pour tout les effets interagissant avec.
 
 ## Equipement exotique
-
 On ignorera la règle qui stipule que vous ne pouvez équiper que 2 équipements exotiques maximum.
 
 ## Madrigal Exotic Gear
-
 Tout les PJ ont accès aux équipements exotiques Madrigal (voir Lancer - Dustgrave). Ces équipements permettent aux pilotes de se battre efficacement sur le champs de bataille néanmoins cela reste dangereux.
 
 ## Alternative Structure Table
-
 On utilisera les règles alternatives [qui sont trouvable ici](https://esbionarshadow.itch.io/gms-crisis-catalogue/devlog/495711/alternative-structure-and-stress-rules)
 
 | 5-6          | Glancing blow | Emergency systems kick in and stabilize your mech, but it’s<br>IMPAIRED until the end of your next turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -72,7 +66,7 @@ On utilisera les règles alternatives [qui sont trouvable ici](https://esbionars
 
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
-- [[Operation Winter Scar]]
+- [[Operation Winter Scar]] - Custom Version
 
 # Composition du groupe
 - [[Heliades]]
