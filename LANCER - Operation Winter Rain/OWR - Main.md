@@ -62,4 +62,3 @@ Tout les PJ ont accès aux équipements exotiques Madrigal (voir Lancer - Dustgr
 - [[Hornet]]
 - [[Polist]]
 - [[Sheray]]
-- [[Slipstream]]
