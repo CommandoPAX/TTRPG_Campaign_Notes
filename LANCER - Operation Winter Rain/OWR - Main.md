@@ -53,6 +53,13 @@ On ignorera la règle qui stipule que vous ne pouvez équiper que 2 équipements
 
 Tout les PJ ont accès aux équipements exotiques Madrigal (voir Lancer - Dustgrave). Ces équipements permettent aux pilotes de se battre efficacement sur le champs de bataille néanmoins cela reste dangereux.
 
+## Alternative Structure Table
+
+| 5-6 | Glancing blow |     |
+| --- | ------------- | --- |
+| 2-4 |               |     |
+| 1   |               |     |
+
 # Déroulé de la campagne
 - [[Operation Solstice Rain]]
 - [[Operation Winter Scar]]
