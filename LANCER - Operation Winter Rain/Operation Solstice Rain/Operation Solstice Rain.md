@@ -73,9 +73,6 @@ A travers les conteneurs, vous apercevez brièvement le mécha qui a causé tout
 
 # After-action report
 
-With the jammers neutralized and LSA reinforcements continuing to push Sovereignty forces
-out of the city, the battle of Nov Elysia soon comes to an end. Sporadic pockets of Sovereignty resistance left behind during the retreat will be mopped up in the days to come. For now the battle is over, though what has happened here may simply be the opening salvo in a much greater war.
-
 Avec le brouillage levé, et les renforts du LSA qui continue leur percée à travers la ville, la bataille de Nov Elysia touche à sa fin. Quelques poches de résistance de la souveraineté subsiste, néanmoins elles ne feront pas long feu. 
 L'ambassadeur Bannerjee et la Capitaine Farris tout deux sains et saufs, les négociations avec le LSA purent continuer de plus belle. Un accord allait être obtenu mais la découverte d'un nouveau Metavault, fit tout capoter. D'un coup, la planète insignifiante de Cressidium devint le lieu de toutes les convoitises. Les Corpro-states voulant a tout prix leur part du gâteau, ils firent jouer de leur influence pour expulser Union du secteur le temps des recherches. Union, habitué à ce genre de manoeuvre, envoya Magnum Opus Interstellar, une compagnie proxy, dans le système sous couvert de "construire un nouveau portail Blink". 
 Et vous dans tout ca ? Ceux d'entre vous qui ont voulu rester, sont maintenant sous-contrat avec MOI pour "assurer la sécurité du nouveau portail", mais ce que vous faites sur votre temps libre n'appartient qu'à vous, et Union espère que vous l'utiliserez à bon escient. Le Metavault ne va pas se trouver tout seul… Enfin si vous le souhaitez, après tout, les Corpro-states ont des offres assez alléchantes, et Union se trouve tellement loin... 
