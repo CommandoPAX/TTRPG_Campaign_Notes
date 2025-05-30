@@ -8,7 +8,7 @@
 
 # Règles optionnelles
 - Manna (The Long Rim p.36)
-- ~~Bonds (Field Guide to Karrakin Trade Baronies)~~
+- ~~Bonds (Field Guide to Karrakin Trade Baronies)~~ Nous ne les utiliserons plus vu que je trouve qu'il manque d'interêt.
 
 ## Manna
 ### Obtention
@@ -54,6 +54,8 @@ On ignorera la règle qui stipule que vous ne pouvez équiper que 2 équipements
 Tout les PJ ont accès aux équipements exotiques Madrigal (voir Lancer - Dustgrave). Ces équipements permettent aux pilotes de se battre efficacement sur le champs de bataille néanmoins cela reste dangereux.
 
 ## Alternative Structure Table
+
+On utilisera les règles alternatives [qui sont trouvable ici](https://esbionarshadow.itch.io/gms-crisis-catalogue/devlog/495711/alternative-structure-and-stress-rules)
 
 | 5-6          | Glancing blow | Emergency systems kick in and stabilize your mech, but it’s<br>IMPAIRED until the end of your next turn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------ | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
