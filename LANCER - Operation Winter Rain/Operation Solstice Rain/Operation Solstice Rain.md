@@ -73,6 +73,9 @@ A travers les conteneurs, vous apercevez brièvement le mécha qui a causé tout
 
 # After-action report
 
+With the jammers neutralized and LSA reinforcements continuing to push Sovereignty forces
+out of the city, the battle of Nov Elysia soon comes to an end. Sporadic pockets of Sovereignty resistance left behind during the retreat will be mopped up in the days to come. For now the battle is over, though what has happened here may simply be the opening salvo in a much greater war.
 
+Avec le brouillage levé, et les renforts du LSA qui continue leur percée à travers la ville, la bataille de Nov Elysia touche à sa fin. Quelques 
 
 [[Operation Winter Scar]]
