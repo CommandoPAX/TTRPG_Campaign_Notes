@@ -35,7 +35,7 @@ Acquérir les 3 rangs d'une license pour une seule mission coûte donc 600 Manna
 # Règles homebrew
 ## Escalader
 
-Escalader un objet de taille x avec un mécha de taille y vous coute : [2x + 1 - y] déplacement.
+Escalader un objet de taille x avec un mécha de taille y vous coute : [2(x-y) + 1]  (min 1) déplacement.
 
 ## Diagonale
 
