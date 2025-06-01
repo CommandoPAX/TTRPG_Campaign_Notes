@@ -110,8 +110,6 @@
 
 Le transpondeur dans le corps du golem d'Adamantine va attirer Ayleth et les PJ vont devoir se fight dans une forêt contre le dragon.
 
-
-
 ```encounter 
 name: Bataille contre Ayleth
 creatures :
