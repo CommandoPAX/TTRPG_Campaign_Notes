@@ -25,6 +25,10 @@ Vous serez payé :
 - 700 Manna pour l'extraction des données
 - 10 Manna par ennemi éliminé (c'était pas dans le contrat officiel mais je déteste ce que les Corpro font de cette planète)
 
+Train détruit
+Heliades - 1 Kill
+Hornet - 1 Kill
+
 # Reserves
 
 Pas de reserve
