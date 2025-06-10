@@ -28,6 +28,7 @@ Vous serez payé :
 Train détruit
 Heliades - 1 Kill
 Hornet - 1 Kill
+Slip Stream - 2 Kill
 
 # Reserves
 
