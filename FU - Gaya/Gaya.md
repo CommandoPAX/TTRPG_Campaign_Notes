@@ -3,4 +3,4 @@
 
 
 # Composition du groupe
-- 
+- [[Edel]]
