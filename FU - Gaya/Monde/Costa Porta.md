@@ -1,8 +1,8 @@
 # Esthétique 
-Costa Porta est composé de trois grandes cités portuaires : Valdime, Starsbourg et Mice. Ces trois cités sont réputés pour être d'excellente station balnéaire.
+Costa Porta est composé de trois grandes cités portuaires : Valdime, Starsbourg et Mice. Ces trois cités sont réputées pour être d'excellente station balnéaire.
 
 # Croyance
-Les habitants de Costa Porta considère que les Harems sont la chose la plus importante au monde. Ils n'hésitent pas à passer d'un harem à un autre rendant la destination populaire pour les étrangers cherchant à accroitre leur statut.
+Les habitants de Costa Porta considèrent que les Harems sont la chose la plus importante au monde. Ils n'hésitent pas à passer d'un harem à un autre rendant la destination populaire pour les étrangers cherchant à accroître leur statut.
 
 # Gouvernance
 Le siège du gouvernement de Costa Porta se trouve à Mice. Celui-ci est composé du plus grand Harem du pays. 
@@ -17,13 +17,13 @@ Le niveau technologique de Costa Porta n'est pas très avancé mis à part pour 
 R.A.S.
 
 # Géographie
-Costa Porta est composé d'une grande jungle inhospitalière entouré par des plages de sable fin.
+Costa Porta est composé d'une grande jungle inhospitalière entourée par des plages de sable fin.
 
 # Philosophie
 Les habitants de Costa Porta considère que la seule chose ayant de la valeur sont les Harems.
 
 # Mystère
-La jungle inexplorée au milieu du pays regorge de danger.
+La jungle inexplorée au milieu du pays regorge de dangers.
 
 # Géopolitique
 Considéré par le reste du monde comme le siège du gouvernement mondial. 
