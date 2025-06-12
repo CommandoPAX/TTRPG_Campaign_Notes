@@ -1,6 +1,6 @@
 Identité : Ancienne espionne devenue abomination
 Thème : Vengeance
-Origine : Nethis
+Origine : Nethis ([[Bokudil]])
 
 # Informations
 ## Classes

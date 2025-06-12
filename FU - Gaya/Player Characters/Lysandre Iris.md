@@ -1,6 +1,6 @@
 Identité : Héritier d'une ancienne dynastie déchue
 Thème : Amour
-Origine : Obror
+Origine : [[Obror]]
 
 # Informations
 ## Classes

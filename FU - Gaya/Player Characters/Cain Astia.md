@@ -8,7 +8,11 @@ Origine : Ablana
 - Guardian
 - Weaponmaster
 ## Elements
-AUCUN
+- Air
+- Bolt
+- Fire
+- Earth
+- Ice
 
 # Backstory
 AUCUNE
