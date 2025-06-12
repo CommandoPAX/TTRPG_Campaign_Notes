@@ -1,9 +1,6 @@
 #Information
-# Déroulé de la campagne
+# Monde
 
 
 # Composition du groupe
-- [[Heliades]]
-- [[Hornet]]
-- [[Polist]]
-- [[Sheray]]
+- 
