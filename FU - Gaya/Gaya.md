@@ -4,7 +4,7 @@
 - [[Bokudil]]
 - [[Lacria]]
 - [[Obror]]
-- [[Valdime]]
+- [[Costa Porta]]
 
 # Composition du groupe
 - [[Edel]]
