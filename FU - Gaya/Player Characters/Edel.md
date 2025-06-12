@@ -10,6 +10,7 @@ Origine : Lacria
 ## Elements
 - Bolt
 - Poison
+- Light
 
 # Backstory
 La première chose dont Edel se souvient est le plafond d'une hutte, quand elle avait 12ans. Elle se rappelle encore des moments divers qu'elle passait à assister une sorcière dans un bois de Latria, des jours où elle allait cueillir des ingrédients, ou alors de ceux où les deux comparses observaient les animaux de la forêt. Le fait suivant qu'elle connaît sur sa vie est qu'à 17ans, ces moments n'étaient plus.
