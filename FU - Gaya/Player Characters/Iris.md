@@ -29,7 +29,7 @@ Elle passa les mois suivants à récupérer. Son corps avait été profondément
 
 C'est aussi dans ce village qu'elle fit la connaissance d'[[Edel]], une fille visiblement amnésique qui avait l'air de s'intéresser beaucoup à elle. Plus le temps passait, et moins Iris se sentait encline à la repousser alors que cette dernière faisait tout pour lui redonner le sourire.
 
-Cela faisait grandir un sentiment que la femme n'arrivait pas à comprendre. Elle se retrouvait à apprécier de plus en plus la façon dont [[Edel]] lui parlait des différents monstres et bêtes jalonnant Lacria, alors qu'elle-même restait silencieuse à propos de ses aspirations.
+Cela faisait grandir un sentiment que la femme n'arrivait pas à comprendre. Elle se retrouvait à apprécier de plus en plus la façon dont [[Edel]] lui parlait des différents monstres et bêtes jalonnant [[Lacria]], alors qu'elle-même restait silencieuse à propos de ses aspirations.
 
 Puis apparut un voyageur au village de Valica. Myriosil avait pour but de voyage, comme de nombreuses autres de ses confrères, d'agrandir son harem en visitant ville après ville. Assez rapidement, les deux filles succombèrent sous son charme, et à l'âge de 27ans, Iris commença à voyager en sa compagnie. Lors de ces mois, Iris put enfin mettre un nom sur le sentiment qu'elle avait en voyant les compagnes de Myriosil : l'amour.
 

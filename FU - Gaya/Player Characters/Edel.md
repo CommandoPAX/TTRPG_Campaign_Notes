@@ -1,6 +1,6 @@
 Identité : Naturaliste craintive à la mémoire floue
 Thème : Besoin de s'intégrer
-Origine : Lacria
+Origine : [[Lacria]]
 
 # Informations
 ## Classes

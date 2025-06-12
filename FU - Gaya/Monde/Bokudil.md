@@ -2,8 +2,6 @@
 
 Bokudil est un assemblage d’îles flottant dans les airs au-dessus du continent. Les îles ont des climats et des tailles variées. Les habitants ont formé des rassemblements sur les îles les plus grosses, et tentent de survivre en utilisant les ressources qui se trouvent sur leur îles, ainsi que les plus proches.
 
-  
-
 # Gouvernance
 
 La Trinité est le nom donné à l’association de Thule, Kemes et Nethis, les trois villes dirigeant sa propre île, et sont envieuses des ressources des deux autres. La position de triangle qu’elles adoptent est toutefois maintenue politiquement par le fait que chaque population craint plus que tout que le Train soit endommagé, voire détruit, ce qui condamnerait chacun des habitants..
@@ -34,3 +32,9 @@ Les îles ont chacun des biomes divers, mais pour la majorité hostiles. Kemes e
 
   
 Cependant, les îles ont l’air d’être positionnées en tant que cercle autour d’une 22è, coupée de tout rail, et flottant bien plus haut que le reste. Personne n’a jamais pu voir autre chose que le dessous de l’île, et les légendes sont nombreuses à son sujet.
+
+# L'Errant
+
+Toutes les îles de Bokudil sont connectées entre elles par L’Errant, un train très avancé semblant être là depuis la nuit des temps. Celui-ci roule sur des rails flottant au-dessus du vide, et complète un tour complet de l’archipel en deux heures, et existe en deux exemplaires allant dans la direction opposée l’un de l’autre, se croisant inlassablement sur la terre ferme. Les rails célestes s’arrêtent 21 fois, et il est impossible d’accéder à un endroit où peut se trouver un pilote.
+
+Personne ne sait réellement comment les deux Errants ont été créés, et aucun habitant de Bokudil n’a osé prendre le risque de les décomposer, de peur de se retrouver coincé en terrain dangereux.

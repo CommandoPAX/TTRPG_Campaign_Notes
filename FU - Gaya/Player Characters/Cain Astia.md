@@ -1,6 +1,6 @@
 Identité : Enfant des rues
 Thème : Amour
-Origine : Ablana
+Origine : [[Ablana]]
 
 # Informations
 ## Classes
