@@ -1,6 +1,6 @@
 #Story
-### Contrat de 
-Paradigm
+### Contrat de "Slipstream"
+
 
 # Objectifs de la mission
 
