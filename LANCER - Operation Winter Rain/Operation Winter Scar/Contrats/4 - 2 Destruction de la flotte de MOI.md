@@ -1,5 +1,5 @@
 #Story
-### Contrat de "NAVIGATOR"
+### Contrat de "Armorer" 
 
 # Objectifs de la mission
 
