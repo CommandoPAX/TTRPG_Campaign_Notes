@@ -1,5 +1,4 @@
 #Story 
-
 ### Contrat de Maria "Slip Stream" Arusu
 
 Nous avons réussi à obtenir les plans de route d'un convoi d'IPS-N transportant des informations sur la localisation du Metavault.

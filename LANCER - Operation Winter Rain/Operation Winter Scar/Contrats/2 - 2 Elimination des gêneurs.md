@@ -1,5 +1,5 @@
 #Story
-### Contrat de 
+### Contrat de "Armorer"
 
 # Objectifs de la mission
 

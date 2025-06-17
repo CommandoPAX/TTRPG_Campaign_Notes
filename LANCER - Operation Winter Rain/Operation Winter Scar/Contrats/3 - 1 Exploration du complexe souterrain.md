@@ -1,5 +1,5 @@
 #Story
-### Contrat de 
+### Contrat de Navigator
 
 # Objectifs de la mission
 
