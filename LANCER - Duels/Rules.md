@@ -14,7 +14,8 @@ Chaque membre de l'équipe doit avoir un rôle différent, dans le cas d'unité 
 ### Core power
 Certains Core Power ont le trait efficient, indiquant qu'ils peuvent être utilisé plusieurs fois par mission. Ces derniers étant généralement moins fort, ils sont **utilisables deux fois** durant les duels. 
 
-## Dérouler d'un du
+## Le duel en pratique
+Chaque participant connaît la sitrep en avance ainsi que son objectif de mission, il peut ainsi composer une équipe adaptée. La composition de chaque équipe est révélé juste avant le combat. 
 
 ## Combattre et gagner
 ### Combattre
