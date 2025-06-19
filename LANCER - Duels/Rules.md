@@ -3,30 +3,35 @@
 - Lancer Enhanced Combat
 - Legionnaire
 - Field Guide to Suldan
-- Field Guide to Liminal Space (la frame RASPUTIN est banni mais pas sa license)
+- Field Guide to Liminal Space
 - Field Guide to Iridia
 
 # Règles générales
 ## Composition de chaque équipe
+Chaque équipe est composé d'un mécha PJ (LL6, aucun exotique) et de 4 méchas PNJ (Tier 2, 6 features optionnels à répartir entre les 4 méchas PNJ). 
+Chaque membre de l'équipe doit avoir un rôle différent, dans le cas d'unité possédant plusieurs rôles, seuls l'un d'entre eux est considéré.
 
-Chaque équipe est composé d'un mécha PJ (LL6, aucun exotique) et de 4 mécha PNJ (6 . 
-Chaque membre de l'équipe doit avoir un rôle différent, dans le cas d'unité possédant plusieurs rôles, seuls l'un d'entre eux
+### Core power
+Certains Core Power ont le trait efficient, indiquant qu'ils peuvent être utilisé plusieurs fois par mission. Ces derniers étant généralement moins fort, ils sont **utilisables deux fois** durant les duels. 
+
+## Dérouler d'un du
+
+## Combattre et gagner
+### Combattre
+Le combat s'effectue selon les règles normales de LANCER, néanmoins l'équipe ayant la première activation est tiré au hasard au début de chaque round.
+
+### Gagner
+Pour gagner, il suffit de soit éliminer intégralement l'équipe adverse ou remplir l'objectif de la sitrep.
 
 # Règles homebrew
 ## Escalader
-Escalader un objet de taille x avec un mécha de taille y vous coute : [2(x-y) + 1]  (min 1) déplacement.
+Escalader un objet de taille x avec un mécha de taille y vous coûte : [2(x-y) + 1]  (min 1) déplacement.
 
 ## Diagonale
 Dans le cas des déplacement diagonaux (vol, téléportation, ligne de tir) seul la distance la plus grande entre la distance horizontale et verticale compte.
 
 ## Quick tech adverse
 Les effets des quick tech adverses sont comptés comme des Condition pour tout les effets interagissant avec.
-
-## Equipement exotique
-On ignorera la règle qui stipule que vous ne pouvez équiper que 2 équipements exotiques maximum.
-
-## Madrigal Exotic Gear
-Tout les PJ ont accès aux équipements exotiques Madrigal (voir Lancer - Dustgrave). Ces équipements permettent aux pilotes de se battre efficacement sur le champs de bataille néanmoins cela reste dangereux.
 
 ## Alternative Structure Table
 On utilisera les règles alternatives [qui sont trouvable ici](https://esbionarshadow.itch.io/gms-crisis-catalogue/devlog/495711/alternative-structure-and-stress-rules)
