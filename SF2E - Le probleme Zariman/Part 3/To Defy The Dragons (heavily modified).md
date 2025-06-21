@@ -180,6 +180,7 @@ Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incru
 A1 | B3
 
 Combinaison erronée : B1 | C1
+A2 | B2
 ```encounter 
 name: Phase 1
 creatures :
