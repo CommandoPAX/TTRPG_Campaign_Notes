@@ -221,7 +221,7 @@ La Volonté Suprême inflige 30 points de dégâst mentaux à la cible.
 ```
 ## Phase 2
 La Volonté Suprême projette une roue de différentes couleurs : rouge (feu), bleu clair (cold), vert (acide), bleu foncé (électrique), gris (physical), rose (sonic). 
-La Volonté Suprême est vulnérable à l'élement associé à la couleur et immunisé aux restes. A chaque fois qu'une vulnérabilité est frappée, la roue avance d'un cran.
+La Volonté Suprême est vulnérable à l’élément associé à la couleur et immunisé aux restes. A chaque fois qu'une vulnérabilité est frappée, la roue avance d'un cran.
 Les Volonté Fragmentée sont immunisé au type de dégât affiché sur la roue, mais vulnérable au reste. Lorsqu'elles sont touchés, elles avancent la roue jusqu'au type de dégâts correspondant.
 ```encounter 
 name: Phase 2
