@@ -176,6 +176,8 @@ La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénèr
 ## Phase 1
 La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
 Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du Zariman**.
+
+A1 | B3
 ```encounter 
 name: Phase 1
 creatures :
