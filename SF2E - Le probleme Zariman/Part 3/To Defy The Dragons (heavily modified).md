@@ -183,7 +183,7 @@ Combinaison erronée : B1 | C1
 A2 | B2
 C1 | B3
 B3 | B3
-C2 m
+	C2 m
 ```encounter 
 name: Phase 1
 creatures :
