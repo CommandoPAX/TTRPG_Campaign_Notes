@@ -1,4 +1,4 @@
-# Session 1
+# Session uno
 ```pf2e-stats
 # Disrupteur Sonique
 ## 14
@@ -106,7 +106,7 @@
 
 **Spécial** : cette arme utilise votre plus haute proficiency pour armes.
 ```
-# Session 2 - Bataille contre Ayleth
+# Session dos - Bataille contre Ayleth
 
 Le transpondeur dans le corps du golem d'Adamantine va attirer Ayleth et les PJ vont devoir se fight dans une forêt contre le dragon.
 
@@ -160,10 +160,10 @@ creatures :
 **Wellspring Plating** Magical plating integrated into Ayleth's admantine scale functions as a Haste spell. If the effect is deactivated (**DC 33**), Ayleth can reactivate it after 1d4 rounds.
 
 ```
-A chaque fois qu'Ayleth subit des dégâts, les PJ auront des hallucinations de la simulation qui se brise de plus en plus. Lorsqu'elle meurt, ces derniers se retrouvent dans une immense pièce blanche (reconnaisse le Zariman mais en meilleur état) avec une gigantesque orbe d'énergie (comme un cephalon) qui les regarde.
+A chaque fois qu'Ayleth subit des dégâts, les PJ auront des hallucinations de la simulation qui se brise de plus en plus. Lorsqu'elle meurt, ces derniers se retrouvent dans une immense pièce blanche (reconnaisse le [[Zariman]] mais en meilleur état) avec une gigantesque orbe d'énergie (comme un cephalon) qui les regarde.
 Ayleth ne protégeant plus la simulation, il est l'heure pour la Volonté Suprême d'en finir avec celle-ci.
 
-# Session 3 - La Volonté Suprême
+# Session tres - La Volonté Suprême
 
 Ayleth n'empêchant plus la simulation de s'arrêter, les PJ vont avoir de plus en plus de vision d'une immense salle blanche. 
 Pour déterminer si elle la simulation est une réussite ou un échec, la Volonté Suprême va soumettre le groupe à une série de test basé sur leurs expériences passées.
@@ -174,8 +174,8 @@ https://monster.pf2.tools/
 La Volonté Suprême est accompagné de 5 Volonté Fragmentée qui se régénère à chaque nouvelle phase.
 
 ## Phase 1
-La Volonté Suprême projette l'image du Zariman, un labyrinthe et un guide vers un monde meilleur. 
-Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du Zariman**.
+La Volonté Suprême projette l'image du [[Zariman]], un labyrinthe et un guide vers un monde meilleur. 
+Chaque Volonté Fragmentée prend l'apparence d'un cristal dans lequel est incrusté un terminal. Il est possible d'intéragir avec ces terminaux afin de résoudre le **Labyrinthe du [[Zariman]]**.
 
 A1 | B3
 
@@ -202,7 +202,7 @@ creatures :
 
 ---
 **Boss final** : La Volonté Suprême lance deux fois l'initiative et joue donc deux fois.
-**Labyrinthe du Zariman** (Drift)  
+**Labyrinthe du [[Zariman]]** (Drift)  
 When this layer appears, draw a 3x3 grid – the labyrinth – on a piece of paper and sequentially mark the rows A/B/C and the columns 1/2/3. Secretly note down the coordinates of two of the nine spaces (i.e., A1, B3, etc.). As a quick action, characters adjacent to the layer or one of its shards can make two guesses about which spaces in the labyrinth contain a mark. Tell them if they are correct or not. When a character guesses both marks correctly in the same attempt, the layer is destroyed. For each incorrect guess, the Eidolon uses INCORRECT against them as a reaction, ignoring the 1/turn limit. Each target (i.e., the Eidolon or one of its shards) can only be used to guess once per round.  
   
 AC 33; Fort +23, Ref +18, Will +29  
@@ -331,7 +331,7 @@ Arcane Spells DC 37, attack +29; 7th World Warp (at will);
 
 # Fin et épilogue
 
-Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "Le Mixeur" étant écris sur un néon accroché au mur. Des écrans sur les murs semblent montrer une centaine de réalité différente. Les murs et couloir ressemble trait pour trait à ceux du Zariman qu'ils ont visité il y a quelques années.
+Après avoir quitté leur simulation maudite, les PJ se retrouve dans un bar, "Le Mixeur" étant écris sur un néon accroché au mur. Des écrans sur les murs semblent montrer une centaine de réalité différente. Les murs et couloir ressemble trait pour trait à ceux du [[Zariman]] qu'ils ont visité il y a quelques années.
 
 Un humain, ressemblant à Jean-Marie Bigard habillé en barman vintage leur fait signe, et leur propose un verre.
 [FIN]
