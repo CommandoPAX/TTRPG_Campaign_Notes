@@ -8,4 +8,4 @@ What ils ont quasi tout le livre
 
 ## Déroulé
 
-Vous êtes actuellement 
+PJ commencent en naviguant à travers le Tangle. Les ruines se situent quelque part dans le drown. 
