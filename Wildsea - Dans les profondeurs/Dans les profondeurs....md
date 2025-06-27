@@ -3,3 +3,5 @@ Vous avez entendu parler d'un équipage qui aurait trouvé des ruines Pre-V au p
 
 # Session 1
 Joueur présent : Alice, Alexis, Lucie
+
+What ils ont quasi tout le livre
