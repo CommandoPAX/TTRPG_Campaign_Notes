@@ -9,3 +9,5 @@ What ils ont quasi tout le livre
 ## Déroulé
 
 PJ commencent en naviguant à travers le Tangle. Les ruines se situent quelque part dans le drown. 
+Un navire des Corsaires rouges, intéressé par les ressources se trouvant à bord des navires partant à la chasse au trésor, pourchasse le Monarche Toudou.
+Une habitation en ruine pleine de ressource s'offre au PJ. Rhiku a utilisé un whisper pour créer une apparition spectrale de la vie à l'époque où la colonie existait encore.
