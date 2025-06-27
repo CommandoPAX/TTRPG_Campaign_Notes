@@ -1,12 +1,12 @@
 #Story
 ### Contrat de Jun "Armorer" Dong Gady
-Ce contrat vous est offert par IPS-N
+Ce contrat vous est offert par IPS-N : IPS-N, des opportunités en or !
 
 # Objectifs de la mission
-Vous devez vous débarrassez des gêneurs à Villethion qui nous empêche de mener une opération de forage d'une importance considérable.
+Vous devez vous débarrassez des gêneurs à Villethion qui nous empêche de mener une opération de forage d'une importance considérable. Pas de survivant, on ne voudrait pas de la mauvaise presse.
 
 # Paramètres
-Forces locales sont peu armé donc résistance sera faible, néanmoins pour éviter la mauvaise presse il ne faudra aucun survivant
+Les locaux sont très peu armé et ne possède que quelques méchas, la résistance sera donc très faible.
 
 # Enjeu
 [INFORMATION CLASSIFIE]
@@ -16,4 +16,4 @@ Forces locales sont peu armé donc résistance sera faible, néanmoins pour évi
 - -100 par ennemi survivant
 
 # Reserves
-High caliber ammo
+- High caliber ammo
