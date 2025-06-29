@@ -3,8 +3,6 @@
 Nous n'avons pas encore décrypté toutes les données que vous avez "emprunté" au convoi. Néanmoins, ce qu'on a déjà réussi à déchiffrer laisse à penser que les Corpro veulent nettoyer Villethion, un village local pour une opération de forage. Bien sûr on ne peut pas les laisser faire.
 
 # Objectifs de la mission
-- Escorter un convoi d'armement destinés aux autorités locales
-- Détruire le matériel de forage
 Vous aurez deux objectifs durant cette mission : escorter un convoi d'armement pour les forces locales et détruire le matériel de forage. Ce dernier se trouve actuellement dans un aéroport controllé par Harrison Armory.
 
 # Paramètres
