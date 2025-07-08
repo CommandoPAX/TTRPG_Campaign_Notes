@@ -1,5 +1,5 @@
 #Story
-### Contrat de Maria "Slip Stream" Arusu
+### Contrat de Maria "Slip Stream" Arusu (LL3)
 Nous n'avons pas encore décrypté toutes les données que vous avez "emprunté" au convoi. Néanmoins, ce qu'on a déjà réussi à déchiffrer laisse à penser que les Corpro veulent nettoyer Villethion, un village local pour une opération de forage. Bien sûr on ne peut pas les laisser faire.
 
 # Objectifs de la mission

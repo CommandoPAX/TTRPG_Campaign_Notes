@@ -1,5 +1,5 @@
 #Story
-### Contrat de Jun "Armorer" Dong Gady
+### Contrat de Jun "Armorer" Dong Gady (LL3)
 Ce contrat vous est offert par IPS-N : IPS-N, des opportunités en or !
 
 # Objectifs de la mission
