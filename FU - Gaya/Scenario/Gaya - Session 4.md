@@ -6,7 +6,7 @@ Autres membres du groupe vont tomber sur [[la Reine des Rêves]] endormies, s'il
 
 Autour de [[la Reine des Rêves]] (mais hors du rêve)  se trouve plein de gens endormis mais qui ont l'air en bonne santé. Si [[Edel]] ou [[Iris]] sont là, ils reconnaitront deux femmes du Harem de [[Myriosil]].
 
-Dans le rêve, [[la Reine des Rêves]] n'est pas ouvertement hostile mais ne les laissera pas troubler la paix ou partir, un combat va donc être obligatoire (Mettre une clock pour leur permettre de se réveiller).
+Dans le rêve, [[la Reine des Rêves]] n'est pas ouvertement hostile mais ne les laissera pas troubler la paix de ses habitants, un combat va donc être obligatoire (Mettre une clock pour leur permettre de se réveiller).
 
 Récompenses (équivalent 2000z): 
 - Ice Whip : Chain Whip mais dégâts deviennent Ice (250 Zenit)
@@ -15,3 +15,5 @@ Récompenses (équivalent 2000z):
 - 200 Zenit
 
 # Notes
+
+Le groupe a affronté la Fleur Sentinelle et les Lianes Rampantes mais pas [[la Reine des Rêves]]. Celle ci leur a permis de partir en leur souhaitant un bon voyage et en espérant les revoir prochainement.
