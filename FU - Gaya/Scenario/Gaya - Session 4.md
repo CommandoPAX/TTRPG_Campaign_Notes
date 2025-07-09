@@ -16,9 +16,11 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
-Jour : 6
+Jour : 7
 
 Le groupe a affronté la Fleur Sentinelle et les Lianes Rampantes mais pas [[la Reine des Rêves]]. Celle ci leur a permis de partir en leur souhaitant un bon voyage et en espérant les revoir prochainement.
 Quelques personnes sont mortes à cause d'[[Iris]] qui a tranché les lianes les nourrissant. 
 
-Edel souhaite faire une potion pour réveiller les personnes endormies, le projet nécessite une partie de magie de la Reine des
+[[Edel]] souhaite faire une potion pour réveiller les personnes endormies, le projet nécessite une partie de la magie de [[la Reine des Rêves]] cristallisé, trouvable proche de cette dernière. 
+
+Le dernier jet de voyage était un 4.
