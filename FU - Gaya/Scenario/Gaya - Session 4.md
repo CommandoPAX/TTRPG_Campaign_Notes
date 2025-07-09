@@ -16,4 +16,6 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
+Jour : 6
+
 Le groupe a affronté la Fleur Sentinelle et les Lianes Rampantes mais pas [[la Reine des Rêves]]. Celle ci leur a permis de partir en leur souhaitant un bon voyage et en espérant les revoir prochainement.
