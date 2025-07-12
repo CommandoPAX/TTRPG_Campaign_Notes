@@ -1,6 +1,6 @@
 https://wildsea.charsmith.com/gm/q4euieEJvocHdscaJ9dZ
 
-# Navire
+# La galère
 ## Equipage
 ### Firin
 > Il y a encore 2 ans, Firin aurait sûrement été trouvé au bout de la proue de son navire cargo, ses cheveux blonds d’Ardent mouvant dans une légère brise. Un petit sourire en coin se dessine sur son visage alors qu’il entend sa femme Fara s’approcher doucement de lui malgré la musique rocambolesque jouée par des membres de son équipage. Il sait qu’il va bientôt devoir danser, chose qu’il déteste en général, mais cela lui est supportable lorsque c’est avec elle. Son regard bleu est dirigé vers l’horizon, profitant de la vue une dernière fois, un regard rempli d’espoir en dépit des horreurs de ce monde. 
@@ -29,6 +29,8 @@ Milestones project:
 - «Véritable chasser»: Gagner le 3ème rank dans ‘hunt’ 
 Whispers: 
 - «Pas cette fois.»
+
+### Nusha
 
 ## Caractéristiques du navire
 
