@@ -31,6 +31,16 @@ Whispers:
 - «Pas cette fois.»
 
 ### Nusha
+Mothryn, pas très grand / physiquement impressionnant 
+Postier de profession (Wordbearer)
+Drive : être un bon postier, cartographier le monde
+Mire : casse-cou, rebelle
+Possède une écharpe stylée
+
+### Docteur Marcel Wasserstein
+Ardent, a l'air vieux, 
+A 3 disciples : Heinrich, Friedrich, Ulrich
+Est hanté par Wilhelm (un disciple mort, visible par les autres)
 
 ## Caractéristiques du navire
 
