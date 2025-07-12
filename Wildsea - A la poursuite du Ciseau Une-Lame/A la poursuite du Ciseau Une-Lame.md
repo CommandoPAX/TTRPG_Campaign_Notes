@@ -61,9 +61,12 @@ Un vaisseau d'exploration recouvert en partie de végétation
 ### Festival : La Grande Mascarade
 Célèbre la fondation du port
 Séparé en trois parties car les légendes racontent que 3 grandes personnes ont participé à la construction du port
-Une partie sur le partage de la nourriture, une sur l'exposition d'art et de sculpture, une 
+- Jeu de piste
+- Exposition d'art et de sculpture avec une pièce de théâtre racontant la fondation du port
+- Concours de troc
 
 ## Légendes locales
-
+- Marcel Wasserstein : Ardent semi-lézard qui aurait fondé une église, les adeptes de celle-ci se seraient tous suicidé
+- Firin : les livres qui remontent à la surface serait une tentative des morts de communiquer avec les vivants. Tomber de manière
 
 # Session 1 

@@ -6,4 +6,4 @@
 - LANCER - Operation Winter Rain : une campagne introductive à Lancer basé sur les modules "Operation Solstice Rain" et "Operation Winter Scar"
 - SF2E - Le problème Zariman : une très longue campagne en plusieurs arcs incluant "The Liberation of Locus-1" et "To Defy The Dragon"
 - Wildsea - Dans les profondeurs
-- Wildsea - A la poursuite du Ciseau-Une-Lame
+- Wildsea - A la poursuite du Ciseau Une-Lame
