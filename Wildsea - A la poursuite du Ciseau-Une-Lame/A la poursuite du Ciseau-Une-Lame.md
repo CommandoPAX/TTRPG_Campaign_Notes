@@ -38,9 +38,12 @@ Mire : casse-cou, rebelle
 Possède une écharpe stylée
 
 ### Docteur Marcel Wasserstein
-Ardent, a l'air vieux, 
+Ardent, a l'air vieux avec une barboustache de physicien
 A 3 disciples : Heinrich, Friedrich, Ulrich
 Est hanté par Wilhelm (un disciple mort, visible par les autres)
+
+### Ringumen
+Ektus, a l'air bouffi, vêtement coloré (en mode patchwork)
 
 ## Caractéristiques du navire
 
