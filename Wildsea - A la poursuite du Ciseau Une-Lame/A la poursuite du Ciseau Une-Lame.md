@@ -74,4 +74,4 @@ Séparé en trois parties car les légendes racontent que 3 grandes personnes on
 
 # Session 1 
 #### Jour 1 
-Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont 
+Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont pu les repousser sans trop de problème. A la fin de la journée Marcel Wasserstein a récupéré une cargaison de bois pour réparer son arbalète endommagé lors du conflit. 
