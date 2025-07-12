@@ -74,4 +74,4 @@ Séparé en trois parties car les légendes racontent que 3 grandes personnes on
 
 # Session 1 
 #### Jour 1 
-Une bloomtide a propulsé des pinwolfs sur le pont du navire. 
+Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont 
