@@ -67,6 +67,9 @@ Séparé en trois parties car les légendes racontent que 3 grandes personnes on
 
 ## Légendes locales
 - Marcel Wasserstein : Ardent semi-lézard qui aurait fondé une église, les adeptes de celle-ci se seraient tous suicidé
-- Firin : les livres qui remontent à la surface serait une tentative des morts de communiquer avec les vivants. Tomber de manière
+- Marcel Wasserstein : un peuple mystérieux appelé Taupe serait ceux qui écrivent tout les livres
+- Firin : les livres qui remontent à la surface serait une tentative des morts de communiquer avec les vivants. Tomber de manière inopiné sur un livre est considéré comme un avertissement
+- Ringumen : dans le Tangle, il y aurait une clairière paisible habité par de nombreux animaux qui ne serait pas menacé par la Verdoyance
+- Nusha : une chanson populaire chez les marins décrit une créature gigantesque semblable à des racines qui dévorent les navires voguant sur elle
 
 # Session 1 
