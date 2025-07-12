@@ -80,4 +80,6 @@ Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont pu les rep
 L'équipage a découvert un Tallshank menaçant de s'effondrer. Une inspection de la part de Ringumen avec une longue vue fabriqué par Wasserstein a permis de voir qu'un grand nombre d'esprit se dirige vers les habitations en haut du Tallshank.
 
 #### Jour 3 
-Une rencontre infortunée avec un navire mar 
+Une rencontre infortunée avec un navire marchand sous-vegetation qui a percuté la Galère. Ces derniers leur ont promis des reductions une fois arrivé à 3 Masques. 
+
+La Galère arrive à 3 Masques.
