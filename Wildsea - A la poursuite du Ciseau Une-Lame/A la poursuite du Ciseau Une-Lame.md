@@ -75,3 +75,6 @@ Séparé en trois parties car les légendes racontent que 3 grandes personnes on
 # Session 1 
 #### Jour 1 
 Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont pu les repousser sans trop de problème. A la fin de la journée Marcel Wasserstein a récupéré une cargaison de bois pour réparer son arbalète endommagé lors du conflit. 
+
+#### Jour 2
+L'équipage a découvert un Tallshank menaçant de s'effondrer. Une inspection de la part de Ringumen avec une longue vue fabriqué par Wasserstein a permis de voir qu'un grand nombre d'esprit se dirige vers les habitations en haut du Tallshank.
