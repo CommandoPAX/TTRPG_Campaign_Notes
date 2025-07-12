@@ -57,9 +57,13 @@ Naïve et s'émerveille sur un peu tout
 Un vaisseau d'exploration recouvert en partie de végétation
 
 # Le monde
-
 ## 3 Masques
+### Festival : La Grande Mascarade
+Célèbre la fondation du port
+Séparé en trois parties car les légendes racontent que 3 grandes personnes ont participé à la construction du port
+Une partie sur le partage de la nourriture, une sur l'exposition d'art et de sculpture, une 
 
 ## Légendes locales
+
 
 # Session 1 
