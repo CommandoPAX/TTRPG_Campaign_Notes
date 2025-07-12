@@ -73,3 +73,5 @@ Séparé en trois parties car les légendes racontent que 3 grandes personnes on
 - Nusha : une chanson populaire chez les marins décrit une créature gigantesque semblable à des racines qui dévorent les navires voguant sur elle
 
 # Session 1 
+#### Jour 1 
+Une bloomtide
