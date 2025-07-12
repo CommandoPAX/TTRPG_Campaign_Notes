@@ -50,6 +50,6 @@ A un chat fantôme sur son épaule
 Naïve et s'émerveille sur un peu tout
 
 ## Caractéristiques du navire
-Un vaisseau d'exploration 
+Un vaisseau d'exploration recouvert en partie de végétation
 
 # Session 1
