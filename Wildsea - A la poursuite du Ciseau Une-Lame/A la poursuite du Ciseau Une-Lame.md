@@ -78,3 +78,6 @@ Une bloomtide a propulsé des pinwolfs sur le pont du navire. Ils ont pu les rep
 
 #### Jour 2
 L'équipage a découvert un Tallshank menaçant de s'effondrer. Une inspection de la part de Ringumen avec une longue vue fabriqué par Wasserstein a permis de voir qu'un grand nombre d'esprit se dirige vers les habitations en haut du Tallshank.
+
+#### Jour 3 
+Une rencontre infortunée avec un navire mar 
