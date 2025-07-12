@@ -10,6 +10,7 @@ https://wildsea.charsmith.com/gm/q4euieEJvocHdscaJ9dZ
 > Il regarde à nouveau sa proie de ses orbites creuses alors qu’un son lointain attire les deux autres pinwolf. A chaque nouvelle proie, il se rappelle et continuera de se rappeler de la raison de sa chasse. A chaque proie il s’améliore, à chaque proie il se rapproche de son but, sa proie finale, l’Hydre, son fléau. Empli de rage, l’essence de sa nouvelle vie, il sort rapidement de sa planque et plonge sur sa prochaine prise.
 
 #### Notes
+- A bord depuis 3 mois
 - Firin a des pertes de mémoires concernant sa vie antérieure, il a notamment oublié son précédent nom Ardent et à pris celui de Firin peu de temps après sa renaissance. 
 - La cause de son ancrage est indéfinie, Firin n’a que peu de pistes pour le moment, parmis elles: *Un collier de fleur faiblement luminescent, offert par sa femme, est resté avec lui pour une raison inconnue. *Firin ne connaissait pas le contenu de la cargaison le jour de sa mort. C’était une demande du client, un particulier et surtout un étrange personnage, mais qui payait très bien malgré la longue duré du voyage. Peut-être que ceci avait un lien avec son ancrage, ou bien l’attaque de l’Hydre. 
 - -L’Hydre est une créature très rare, que peu d’érudits connaissent, supposément un léviathan ou un rejeton de ceux-ci. L’Hydre n’est d’ailleurs pas son nom officiel, s’il en existe un, mais c’est celui que Firin utilise pour s’y référer. 
@@ -32,6 +33,7 @@ Whispers:
 - «Pas cette fois.»
 
 ### Nusha
+A border depuis 3 semaines
 Mothryn, pas très grand / physiquement impressionnant 
 Postier de profession (Wordbearer)
 Drive : être un bon postier, cartographier le monde
@@ -39,11 +41,13 @@ Mire : casse-cou, rebelle
 Possède une écharpe stylée
 
 ### Docteur Marcel Wasserstein
+A bord depuis 3 semaines
 Ardent, a l'air vieux avec une barboustache de physicien
 A 3 disciples : Heinrich, Friedrich, Ulrich
 Est hanté par Wilhelm (un disciple mort, visible par les autres)
 
 ### Ringumen
+Depuis la fin du du dernière hiver
 Ektus, a l'air bouffi, vêtement coloré (en mode patchwork)
 Veut juste faire à manger
 A un chat fantôme sur son épaule
@@ -52,4 +56,10 @@ Naïve et s'émerveille sur un peu tout
 ## Caractéristiques du navire
 Un vaisseau d'exploration recouvert en partie de végétation
 
-# Session 1
+# Le monde
+
+## 3 Masques
+
+## Légendes locales
+
+# Session 1 
