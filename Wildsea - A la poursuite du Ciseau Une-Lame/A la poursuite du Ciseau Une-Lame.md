@@ -88,4 +88,5 @@ Appris la localisation approximative du manoir ainsi que le trajet du ciseau une
 Groupe généralement apprécié, Wasserstein a donné une conférence sur la fabrication d'explosifs. 
 Firin pas très apprécié de Makhis
 
-Jour 4
+#### Jour 4
+Upgrade le navire, et sont partis en direction du manoir suspendu
