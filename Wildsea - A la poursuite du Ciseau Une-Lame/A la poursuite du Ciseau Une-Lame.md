@@ -90,3 +90,7 @@ Firin pas très apprécié de Makhis
 
 #### Jour 4
 Upgrade le navire, et sont partis en direction du manoir suspendu
+
+#### Jour 5
+
+Navire inconnu attaqué par une horde de pinwolfs, sauvé 3 membres d'équipages (spear-fisher)
