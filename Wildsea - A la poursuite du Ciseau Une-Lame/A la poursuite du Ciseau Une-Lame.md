@@ -92,5 +92,8 @@ Firin pas très apprécié de Makhis
 Upgrade le navire, et sont partis en direction du manoir suspendu
 
 #### Jour 5
-
 Navire inconnu attaqué par une horde de pinwolfs, sauvé 3 membres d'équipages (spear-fisher)
+
+#### Jour 6 
+Galère a récupéré une cargaison de livre et est arrivé au Manoir suspendu. 
+Manoir accroché à un Tallshank, Ciseau Une-Lame accroché au Manoir avec 
