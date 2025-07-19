@@ -83,3 +83,4 @@ L'équipage a découvert un Tallshank menaçant de s'effondrer. Une inspection d
 Une rencontre infortunée avec un navire marchand sous-vegetation qui a percuté la Galère. Ces derniers leur ont promis des reductions une fois arrivé à 3 Masques. 
 
 La Galère arrive à 3 Masques.
+
