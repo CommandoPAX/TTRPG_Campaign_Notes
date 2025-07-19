@@ -84,3 +84,8 @@ Une rencontre infortunée avec un navire marchand sous-vegetation qui a percuté
 
 La Galère arrive à 3 Masques.
 
+Appris la localisation approximative du manoir ainsi que le trajet du ciseau une lame
+Groupe généralement apprécié, Wasserstein a donné une conférence sur la fabrication d'explosifs. 
+Firin pas très apprécié de Makhis
+
+Jour 4
