@@ -7,9 +7,9 @@ Elle adore les bombes et le thé et est légèrement timide pour ce qui concerne
 Once before the next rest, if the target is about to recover Hit Points, they may double the amount of Hit Points recovered.
 
 # Methamphetamine, la Reine des Rêves
-Un esprit de la forêt qui souhaitait tellement avoir son propre harem, que ses rêves ont influencé la faune locale. La Reine des Rêves piège les voyageurs dans un sommeil éternel qu'ils partageront avec elle.
+Un esprit de la forêt qui souhaitait tellement avoir son propre harem, que ses rêves ont influencé la faune locale.
 
-C'est une
+C'est une bottom curieuse du monde.
 
 ## Rêve éveillé
 
