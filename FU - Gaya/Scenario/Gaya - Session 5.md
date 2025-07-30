@@ -7,3 +7,6 @@ Récompenses (équivalent 2000z):
 - 1200 Zenit
 
 # Notes
+
+Jour 7 : 
+Le groupe est arrivé devant le trône de la Reine des Rêves, celui est au milieu d'une clairière et est taillé dans un arbre, avec des cristaux lesbiens autour d'elle.
