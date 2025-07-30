@@ -8,12 +8,6 @@ Autour de [[la Reine des Rêves]] (mais hors du rêve)  se trouve plein de gens 
 
 Dans le rêve, [[la Reine des Rêves]] n'est pas ouvertement hostile mais ne les laissera pas troubler la paix de ses habitants, un combat va donc être obligatoire (Mettre une clock pour leur permettre de se réveiller).
 
-Récompenses (équivalent 2000z): 
-- Ice Whip : Chain Whip mais dégâts deviennent Ice (250 Zenit)
-- Falling Rain : DEX + DEX + 1 ; HR + 10 Ice (450 Zenit ; CR 278)
-- Slimy Jacket : DEX +1 ; INS +1; INIT -1 ; Immunise au poison (600 Zenit ; CR 281)
-- 200 Zenit
-
 # Notes
 
 Jour : 7
