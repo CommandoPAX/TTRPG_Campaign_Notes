@@ -7,4 +7,5 @@ Récompenses (équivalent 2000z):
 # Notes
 
 Jour 8 :
-Lysandre date avec Jean-Senshi, le forgeron
+Lysandre date avec Jean-Senshi, le forgeron.
+Le date est une réussite, ils ont passé une nuit toride, et il a rejoint le harem.
