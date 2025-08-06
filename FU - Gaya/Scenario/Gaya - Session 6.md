@@ -7,3 +7,4 @@ Récompenses (équivalent 2000z):
 # Notes
 
 Jour 8 :
+Lysandre date avec Jean-Senshi, le forgeron
