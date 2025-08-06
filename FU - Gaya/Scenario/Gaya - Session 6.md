@@ -12,4 +12,7 @@ Le date est une réussite, ils ont passé une nuit toride, et il a rejoint le ha
 Edel et Iris ont donné la potion Réveil-Les-Morts aux gens qu'ils ont déjà réveillé afin que ceux ci réveille les autres endormis.
 
 Jour 9 :
-Le groupe a fait une découverte inattendue
+Le groupe a fait une découverte inattendue, une grotte rempli de cristaux plein de Manna (1500 zenit).
+Celle ci se trouve sous l'Ile mystère et semble avoir été amenagé il y a bien longtemps.
+
+Je vais introduire le gardien des harems, un autre vilain, dans cette grotte qui mène à l'Ile volante.
