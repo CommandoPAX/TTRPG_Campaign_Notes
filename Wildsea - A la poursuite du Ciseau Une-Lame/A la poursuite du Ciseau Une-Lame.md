@@ -96,4 +96,4 @@ Navire inconnu attaqué par une horde de pinwolfs, sauvé 3 membres d'équipages
 
 #### Jour 6 
 Galère a récupéré une cargaison de livre et est arrivé au Manoir suspendu. 
-Manoir accroché à un Tallshank, Ciseau Une-Lame accroché au Manoir avec 
+Manoir accroché à un Tallshank, Ciseau Une-Lame accroché au Manoir avec des grappins
