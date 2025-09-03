@@ -8,3 +8,5 @@ Récompenses (équivalent 2000z):
 
 Jour 9 : 
 Premier combat contre le Juge des Harems
+
+Bon ben ils se sont juste fait cassé la gueule par le Juge des Harems
