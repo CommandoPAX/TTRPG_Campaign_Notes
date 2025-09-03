@@ -10,3 +10,9 @@
 # Récompense
 
 # Reserves
+
+
+Note additionnel 
+
+Run les ennemis par groupe de 3
+Abomination compte comme size 2 pour engaged
