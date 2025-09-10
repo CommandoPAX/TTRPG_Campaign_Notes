@@ -6,3 +6,4 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
+Alice a utilisé un point Fabula pour invoquer un camp de voyageur leur permettant de racheter des ressources. Ils en ont profité pour se reposer.
