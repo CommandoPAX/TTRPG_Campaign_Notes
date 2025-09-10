@@ -6,4 +6,8 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
+Jour 9 :
 Alice a utilisé un point Fabula pour invoquer un camp de voyageur leur permettant de racheter des ressources. Ils en ont profité pour se reposer.
+
+Jour 10 : 
+Premier jour de voyage vers la BAISE, le groupe rencontre un trio de Torturliane sur le chemin l'influence de [[Saint-Maso]] sur le monde grandissant.
