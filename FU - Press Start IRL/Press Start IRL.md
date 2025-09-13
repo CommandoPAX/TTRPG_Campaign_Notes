@@ -2,8 +2,6 @@
 
 Motivation du groupe : rumeur que le fameux passage vers la lune se trouverait par ici
 
-# Scène 2
+# Scène 5
 
-Aucun changement
-
-# Scène 3
+Remplacer attaque de mélée du Hexeye pour une attaque à distance
