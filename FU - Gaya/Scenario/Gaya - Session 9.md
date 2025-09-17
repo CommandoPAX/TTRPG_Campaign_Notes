@@ -24,6 +24,8 @@ Chute,  au niveau des chutes d'eau: Touristique
 
 L'accès à la B.A.I.S.E est plus rapide plus vous faites parti d'un harem grand
 
-Au Ventilo Hurlant : Une boutique d'antiquité tentant de populariser le concept de Ventilateur dans le monde.
+Au Ventilo Hurlant : Une boutique d'antiquité tentant de populariser le concept de Ventilateur dans le monde. La boutique est gérée par Roronna.
 
-Les Tourmalines : Un combo Bijouterie/Boulangerie
+Les Tourmalines : Un combo Bijouterie/Boulangerie. Elle vend des accessoires fait sur mesure boostant les capacités du porteur.
+
+Edel et son harem sont reparti voir Roronna en fin de journée.
