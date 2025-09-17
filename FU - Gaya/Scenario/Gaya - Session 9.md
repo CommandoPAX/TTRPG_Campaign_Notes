@@ -6,6 +6,8 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
+Musique : https://www.youtube.com/watch?v=H7IbS9ubcUQ
+
 Jour 12 : 
 
 Starbuncle volant : hotel où le personnel est déguisé en Starbuncle (1 ou 2 sur l'échelle de Furry), il se situe dans le quartier de la Balustrade
@@ -13,7 +15,7 @@ Propose plusieurs types de chambres :
 Suite dorée : basique 40z la nuit pour deux (accès au casino pour un forfait de 5z)
 Suite platine : 50z la nuit, accès à un jacuzzi privé et un casino
 
-Les PJ
+Les PJ ont réservé deux suites dorées pour deux nuits
 
 Balustrade : Résidentiel
 Ascendance, se trouve au niveau le plus haut de la ville : QG B.A.I.S.E., ambassade
