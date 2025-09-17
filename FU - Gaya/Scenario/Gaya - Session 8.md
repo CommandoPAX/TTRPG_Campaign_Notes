@@ -16,4 +16,4 @@ Jour 11 :
 PJ ont traversé une zone escarpée sans encombre
 
 Jour 12 : 
-Il se passe rien mais ils arrivent à la [[B.A.I.S.E.]]
+Il se passe rien mais ils arrivent à la [[Starsbourg]]

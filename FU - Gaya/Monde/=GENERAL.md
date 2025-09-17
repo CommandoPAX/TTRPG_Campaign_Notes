@@ -10,7 +10,7 @@ Statut social des gens déterminé par la taille de leur harem (pas de distincti
 
 Le sexe n’est pas obligatoire.
 
-Bureau d’Assistance contre l’Insécurité Sacrilège des Engeances ([[B.A.I.S.E.]]) reconnaît les harems, c’est une institution internationale.
+Bureau d’Assistance contre l’Insécurité Sacrilège des Engeances ([[Starsbourg]]) reconnaît les harems, c’est une institution internationale.
 
 Quitter un harem est vu un peu mal vu mais reste commun
 
@@ -30,7 +30,7 @@ Il y a des guerres classiques.
 
 # Menace
 
-- Groupe terroriste (Groupe Anti-[[B.A.I.S.E.]]) qui attaque la [[B.A.I.S.E.]]
+- Groupe terroriste (Groupe Anti-[[Starsbourg]]) qui attaque la [[Starsbourg]]
 - Entité qui influence les gens pour leur faire quitter les harems
 - Démon qui rendent les gens AroAce
 

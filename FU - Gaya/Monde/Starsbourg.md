@@ -1,0 +1,1 @@
+Le QG de la B.A.I.S.E. se trouve ici.
