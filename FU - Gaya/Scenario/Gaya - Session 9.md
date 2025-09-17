@@ -22,4 +22,4 @@ Ascendance, se trouve au niveau le plus haut de la ville : QG B.A.I.S.E., ambass
 Tour : Commercial (genre un centre-ville IRL)
 Chute,  au niveau des chutes d'eau: Touristique
 
-L'accès à la B.A.I.S.E est plus rapide plus vous faites parti d'un hare
+L'accès à la B.A.I.S.E est plus rapide plus vous faites parti d'un harem grand
