@@ -23,3 +23,5 @@ Tour : Commercial (genre un centre-ville IRL)
 Chute,  au niveau des chutes d'eau: Touristique
 
 L'accès à la B.A.I.S.E est plus rapide plus vous faites parti d'un harem grand
+
+Au Ventilo Hurlant : Une boutique d'antiquité tentant de populariser le concept de Ventilateur dans le monde.

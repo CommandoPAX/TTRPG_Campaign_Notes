@@ -22,7 +22,7 @@ Choisissez une option :
 
 # Sachi Sochi
 
-C'est un croupier du casino du Starbuncle Volant
+Un catboy travaillant au casino du Starbuncle Volant
 
 ## Gambling
-Lorsque vous effectuez un check 
+Lorsque vous effectuez un check , vous pouvez gamble sur si le résultat est pair ou impair. Si votre prédiction est correct, vos dégâts sont doublés, sinon vos dégâts sont divisés par deux.
