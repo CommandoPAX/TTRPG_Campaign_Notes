@@ -19,3 +19,10 @@ Choisissez une option :
 - vous réparez un objet endommagé appartenant au groupe
 - vous créez une arme, armure ou bouclier basique sans payer le coût
 - vous détruisez une pièce d'équipement appartenant au groupe et obtenez un matériaux de la même valeur
+
+# Sachi Sochi
+
+C'est un croupier du casino du Starbuncle Volant
+
+## Gambling
+Lorsque vous effectuez un check 
