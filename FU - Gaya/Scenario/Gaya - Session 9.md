@@ -6,3 +6,5 @@ Récompenses (équivalent 2000z):
 
 # Notes
 
+Jour 12 : 
+
