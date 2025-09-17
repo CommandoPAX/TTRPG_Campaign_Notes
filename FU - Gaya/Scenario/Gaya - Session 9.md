@@ -8,3 +8,9 @@ Récompenses (équivalent 2000z):
 
 Jour 12 : 
 
+Starbuncle volant : hotel où le personnel est déguisé en Starbuncle (1 ou 2 sur l'échelle de Furry), il se situe dans le quartier de la Balustrade
+
+Balustrade : Résidentiel
+Ascendancese trouve au niveau le plus haut de la ville : QG B.A.I.S.E., ambassade
+Tour : Commercial (genre un centre-ville IRL)
+Chute,  au niveau des chutes d'eau: Touristique
