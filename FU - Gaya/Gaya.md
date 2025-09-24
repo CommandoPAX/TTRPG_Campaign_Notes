@@ -1,5 +1,5 @@
 #Information
-Pour les activité de camp : en choisisse une seule qui s'applique à un seul membre du groupe
+Activités de camp marche avec les règles normales
 
 # Monde
 - [[Ablana]]
