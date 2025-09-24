@@ -28,4 +28,4 @@ Au Ventilo Hurlant : Une boutique d'antiquité tentant de populariser le concept
 
 Les Tourmalines : Un combo Bijouterie/Boulangerie. Elle vend des accessoires fait sur mesure boostant les capacités du porteur.
 
-Edel et son harem sont reparti voir Roronna en fin de journée.
+[[Edel]] et son harem sont reparti voir Roronna en fin de journée.
