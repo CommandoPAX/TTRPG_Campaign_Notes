@@ -1,0 +1,3 @@
+Au centre de l’océan se trouve une île appelée le Havre de la Piraterie. Celle-ci porte bien son nom et les personnes qui s’y associent sont craintes sur toutes les mers alentour. Les rumeurs pullulent sur ce qui peut y rôder. Mais les pirates ont leurs lèvres scellées magiquement, et les victimes survivent très rarement.
+
+Il y a quelques années, l’ancien Capitaine Tipiak, Baron des pirates est mort assassiné, ce qui mène à une nouvelle ère chaotique de la piraterie. Tout semblant de groupe s’est effondré, et les pirates sont plus féroces et plus sauvages que jamais.
