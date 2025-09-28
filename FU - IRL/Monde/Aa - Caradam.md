@@ -1,0 +1,1 @@
+Royaume dirigée par la Reine Fara, surnommé l'Aigle. Relativement récent
