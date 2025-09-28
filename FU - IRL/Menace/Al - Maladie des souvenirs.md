@@ -1,0 +1,3 @@
+Créatures du Désert d'Endell se retrouvent affectés par un mal qui a les transforment en entités agressives à l’apparence ressemblant au ciel étoilé. Celui-ci est contagieux pour les humains, qui perdent peu à peu leur souvenir avant de se transformer en ces entités. 
+
+Les factions aiment s’accuser l’une l’autre d’avoir créé cette affliction, car elle est apparue juste après la dernière Election, il y a 10 ans.

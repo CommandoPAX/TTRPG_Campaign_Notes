@@ -1,0 +1,1 @@
+Guilde d'assassin basés sur la musique qui mène des assassinats politiques après avoir grimpé secrètement les echelons des gouvernements.
