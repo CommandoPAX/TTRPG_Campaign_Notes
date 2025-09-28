@@ -10,4 +10,6 @@ Refus technologique par ignorance mais 2 école de pensée :
 
 Culte possède la majeur partie du pouvoir et de l'influence (ils s'exposent plus à la plante donc plus puissant)
 
-Nation fondée par d'anciens explora
+Nation fondée par d'anciens explorateurs qui ont découvert la plante
+
+Récemment la Sainte Plante devient de moins en moins nutritive menaçant de famine la population.

@@ -1,0 +1,1 @@
+Sur certaines iles, la flore devient très dangereuse dans des conditions particulières qui peuvent varier d'un endroit à l'autre.
