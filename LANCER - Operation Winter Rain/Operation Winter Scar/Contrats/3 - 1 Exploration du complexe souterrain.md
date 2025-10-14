@@ -24,3 +24,5 @@ Un checkpoint sépare chaque sitrep de la suivante
 NAVIGATOR cherche à récupérer de l'équipement de cartographie qui a map le META-VAULT, abandonné par Iridia Daemonworks quand ils ont évacué le complexe
 
 Dans le META-VAULT se trouve des techs abandonnées des Iridia Deamonworks (équipement de mecha, peut-être des frames)
+
+Durant les prochaines sitrep, tourelles contrôlés par Phaetusa seront présentes sur la map.
