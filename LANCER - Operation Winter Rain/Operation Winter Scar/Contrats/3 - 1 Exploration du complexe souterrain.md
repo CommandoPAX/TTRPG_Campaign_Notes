@@ -18,3 +18,5 @@ Run les ennemis par groupe de 3
 Abomination compte comme size 2 pour engaged
 
 Narratif entre les SITREP 1 ou 2 :
+
+Un checkpoint sépare chaque sitrep de la suivante
