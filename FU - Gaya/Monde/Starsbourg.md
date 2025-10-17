@@ -8,7 +8,7 @@ Suite platine : 50z la nuit, accès à un jacuzzi privé et un casino
 Les PJ ont réservé deux suites dorées pour deux nuits
 
 Balustrade : Résidentiel
-Ascendance, se trouve au niveau le plus haut de la ville : QG B.A.I.S.E., ambassade
+Ascendance, se trouve au niveau le plus haut de la ville : QG B.A.I.S.E (ouvert de 7h à 3h du mat), ambassade
 	Thème : Songclave
 Tour : Commercial (genre un centre-ville IRL)
 Chute,  au niveau des chutes d'eau: Touristique
