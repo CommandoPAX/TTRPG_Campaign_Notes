@@ -1,4 +1,4 @@
-Thème principal : Coral Chambers (HK Silksong)
+	Thème principal : Coral Chambers (HK Silksong)
 
 Starbuncle volant : hotel où le personnel est déguisé en Starbuncle (1 ou 2 sur l'échelle de Furry), il se situe dans le quartier de la Balustrade
 Propose plusieurs types de chambres : 
@@ -9,6 +9,7 @@ Les PJ ont réservé deux suites dorées pour deux nuits
 
 Balustrade : Résidentiel
 Ascendance, se trouve au niveau le plus haut de la ville : QG B.A.I.S.E., ambassade
+	Thème : Songclave
 Tour : Commercial (genre un centre-ville IRL)
 Chute,  au niveau des chutes d'eau: Touristique
 
