@@ -16,4 +16,10 @@ Une fois qu'ils se sont échappé, ils vont vouloir récupérer leur équipement
 
 En sortant du panopticon et en cherchant la sortie, une alarme se met à retentir dans tout le bâtiment, les PJ vont sûrement considérer que c'est à cause de leur échappatoire, mais c'est à cause de la fuite du Sujet-43, qui ravage le complexe.
 
-Durant leur fuite, les PJ ne tomberont que sur un groupe de garde, soulager qu'il ne soit pas le Sujet-43 mais surpris de les voir
+Penser à bien décrire les ravages du Sujet-43 dans le complexe.
+
+Durant leur fuite, les PJ ne tomberont que sur un groupe de garde, soulager qu'il ne soit pas le Sujet-43 mais surpris de les voir, combat tuto.
+
+Ils peuvent continuer leur marche vers la sortie et sortir sans problème, les ravages qu'à causé le Sujet-43 sont visibles jusqu'à l'extérieur, celui-ci s'étant clairement échappé.
+
+Demandé un chiffre au PJ et roll pour voir qui sera ciblé. 
