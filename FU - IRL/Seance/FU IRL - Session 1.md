@@ -26,3 +26,7 @@ Ils peuvent continuer leur marche vers la sortie et sortir sans problème, les r
 
 Un petit combat contre Baelsar a l'extérieur. Au premier round il charge une attaque extrêmement puissante, qu'il effectuera au second round. 
 Celle-ci ciblera un PJ aléatoire (leur demander à tous un chiffre) et infligera 120 point de dégâts électriques (ca devrait être suffisant pour causer un OS). Veronica tankera l'attaque et se sacrifiera pour sauver un autre PJ.
+
+# Notes
+Baelsar a dorénavant un monocle
+Point Fabula : 1
