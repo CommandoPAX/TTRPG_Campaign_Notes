@@ -5,7 +5,6 @@ Chaque PJ est enfermé dans une cellule différentes, celle-ci est fermé par un
 La disposition des cellules est comme dans un panopticon, chaque PJ peut donc observer les autres. 
 
 Il peut être utile de demander à chaque PJ pourquoi/comment ils se sont fait capturé et ont atterri ici.
--,,ujj,h bb,  b   
 Au bout de quelques minutes, un haut-gradé avec un fusil impressionnant à l'épaule (+1 point Fabula pour tous), entre dans le panopticon accompagné de plusieurs gardes. Les PJ peuvent entendre légèrement leur discussion à travers les cloisons : ce dernier mentionne qu'ils n'auront pas besoin d'eux et qu'ils vaut mieux se débarrasser d'eux.
 Sur un bon jet pour écouter la conversation, les PJ peuvent intercepter le nom du Haut-Gradé : le Général Baelsar.
 Quelques secondes plus tard, un garde enclenche un levier sur un des murs et le groupe quitte le panopticon.
