@@ -29,4 +29,4 @@ Celle-ci ciblera un PJ aléatoire (leur demander à tous un chiffre) et infliger
 
 # Notes
 Baelsar a dorénavant un monocle
-Point Fabula : 4
+Point Fabula : 5
