@@ -22,4 +22,5 @@ Durant leur fuite, les PJ ne tomberont que sur un groupe de garde, soulager qu'i
 
 Ils peuvent continuer leur marche vers la sortie et sortir sans problème, les ravages qu'à causé le Sujet-43 sont visibles jusqu'à l'extérieur, celui-ci s'étant clairement échappé.
 
-Demandé un chiffre au PJ et roll pour voir qui sera ciblé. 
+Un petit combat contre Baelsar a l'extérieur. Au premier round il charge une attaque extrêmement puissante, qu'il effectuera au second round. 
+Celle-ci ciblera un PJ aléatoire (leur demander à tous un chiffre) et infligera 120 point de dégâts électriques (ca devrait être suffisant pour causer un OS). Veronica tankera l'attaque et se sacrifi
