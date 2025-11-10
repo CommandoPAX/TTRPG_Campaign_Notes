@@ -17,3 +17,5 @@ Ces ressources devaient être utilisé lors d'un rituel ayant pour but de figer 
 [[Saint-Maso]] et ses aides logent au Starbuncle volant dans une suite platine.
 
 Le groupe a reservé pour 3 nuits supplémentaires des suites dorées.
+
+Les PJ ont rendez vous le lendemain à 10h à la BAISE pour que des études soient mené par le département Magie sur les fournitures ramené par le groupe (dans le bureau de Dan Heng).
