@@ -8,4 +8,6 @@ Se focus sur les dramas d'Edel
 
 Ajouter un perso gender fluid et un autre non-binaire
 
-Faire un arc sur les persos d'Alice puis sur 
+Faire un arc sur les persos d'Alice puis sur Lysandre (membre déchu de la royauté).
+
+Ajouter une dommy mommy
