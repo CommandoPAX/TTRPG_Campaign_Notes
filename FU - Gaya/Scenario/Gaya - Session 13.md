@@ -10,3 +10,6 @@ Manger du flan en essayant de parler est un mauvaise idée
 Récompense pour la capture de Saint-Maso : 5000z
 
 Dan heng est raciste envers Obror. Conflit naissant entre Obror et la BAISE.
+
+Pour la semaine prochaine : 
+- un portail dans la chambre de Saint Maso mène à une ancienne cathédrale d'Obror ou se trouve un Arch
