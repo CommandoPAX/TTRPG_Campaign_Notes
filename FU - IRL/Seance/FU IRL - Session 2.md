@@ -4,7 +4,7 @@ Le groupe a commencé par enterré le corps de Veronica puis ils se sont mis en 
 Un chasseur de prime les recherche afin de toucher la prime de leur capture. Celui ci les a rencontré dans la taverne.
 
 
-Chasseuse de prime : Emilia, vient de 
+Chasseuse de prime : Emilia, vient de Kaldia, capitale de l'empire Kaldien. Couverture : mage de la société de protection de la nature.
 
 # Notes
 Point Fabula : 2 / 4
