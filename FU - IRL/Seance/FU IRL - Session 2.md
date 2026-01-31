@@ -6,6 +6,8 @@ Un chasseur de prime les recherche afin de toucher la prime de leur capture. Cel
 Chasseuse de prime : Emilia, vient de Kaldia, capitale de l'empire Kaldien. Couverture : mage de la société de protection de la nature. elle possède une sorte de téléphone portable, utilisée par les chasseurs de prime pour rester à jour au niveau des primes et localiser Kaldia.
 
 # Notes
-Point Fabula : 3 / 4
+Point Fabula : 4 / 4
 
 PJ sont des chips
+
+FP : survivants du laboratoire présent dans la ville, criminels dangereux ayant tenté de faire un cambriolage. L'un d'entre eux n'a pas contrôlé ses pouvoirs et a fait explosé le bâtiment.
