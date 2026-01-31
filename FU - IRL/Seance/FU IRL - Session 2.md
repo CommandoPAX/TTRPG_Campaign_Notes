@@ -7,3 +7,5 @@ Chasseuse de prime : Emilia, vient de Kaldia, capitale de l'empire Kaldien. Couv
 
 # Notes
 Point Fabula : 2 / 4
+
+PJ sont des chips
