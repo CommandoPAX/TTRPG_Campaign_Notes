@@ -1,2 +1,2 @@
 # Notes
-Point Fabula
+Point Fabula : 1/4
