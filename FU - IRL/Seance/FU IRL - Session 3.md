@@ -6,3 +6,5 @@ Ils ont aussi appris le nom de la ville la plus proche dans lequel ils pourront 
 
 # Notes
 Point Fabula : 4/4
+
+Aubaine (Aaron) : information a guarder et utiliser pour la prochaine session
