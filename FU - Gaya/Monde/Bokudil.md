@@ -9,7 +9,6 @@ La Trinité est le nom donné à l’association de Thule, Kemes et Nethis, les 
 # Société
 
 Bokudil est considérée comme une terre à part, gouvernée par aucune des trois villes qui la composent, bien qu’elle forment politiquement un tout. Il n’est pas rare de voir des tensions entre les trois factions, et la B.A.I.S.E est souvent débordée à cause de frictions entre des harems de villes rivales qu’il faut modérer.
-
   
 
 Bien que différentes sur beaucoup de points, les villes de la Trinité sont organisées de la même manière : Une grande partie de la populace se trouve à faire de son mieux à subsister alors que la classe dirigeante monopolise la plupart des ressources pour leur concours de bite. Là où Thule et Kemes brillent particulièrement dans leur domaine, Nethis
