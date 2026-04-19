@@ -12,7 +12,10 @@ Autorité de la ville sont habillé entièrement en noir, agissent secrètement
 L'arrêt de l'Errant se situe en dehors de la ville (je cite c'est pas pratique d'habiter à côté).
 
 Butineurs (dont [[Iris]] faisait partie) : un gang d'enfants géré par un gars plus vieux tentant de les aider a survivre.
-	Poulpi : légèrement plus âgée qu'Iris, surnommé ainsi car il était complètement kleptomane et donnait l'impression d'avoir 8 bras vu la vitesse de ses vols.
+	Poulpi : légèrement plus âgée qu'[[Iris]], surnommé ainsi car il était complètement kleptomane et donnait l'impression d'avoir 8 bras vu la vitesse de ses vols.
 	Le Nain : le membre le plus jeune du gang (a environ 13 ans maintenant)
 	Kali : sert de doyenne (a environ 42 ans maintenant), s'occupe du gang et tente de les former du mieux qu'elle peut. Un peu dur et très sévère, bricoleuse
-La planque est un ajoncement de tente qui couvre un som
+La planque est un ajoncement de tente qui couvre un sous-sol.
+
+
+Thématique : brume, oubli, mémoire
