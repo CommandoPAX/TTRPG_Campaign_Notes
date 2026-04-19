@@ -17,5 +17,10 @@ Butineurs (dont [[Iris]] faisait partie) : un gang d'enfants géré par un gars 
 	Kali : sert de doyenne (a environ 42 ans maintenant), s'occupe du gang et tente de les former du mieux qu'elle peut. Un peu dur et très sévère, bricoleuse
 La planque est un ajoncement de tente qui couvre un sous-sol.
 
+Kali déambule sans but dans le sous-sol, contaminé par l'infection s'étant emparé de la ville.
 
-Thématique : brume, oubli, mémoire
+Thématique : brume, oubli, stagnation
+
+Infection généré par l'arcane de l'ile. Gouvernement de Nethis a voulu reproduire expériences Thulienne pour contrôler l'arcane mais ont échoué, celle ci encore emprisonné mais source du phénomène.
+
+Personne dans la ville n'a besoin de manger ou boire depuis le début des expériences.
