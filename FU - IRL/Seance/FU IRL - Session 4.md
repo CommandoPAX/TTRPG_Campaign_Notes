@@ -1,5 +1,7 @@
 Jet de voyage raté, ils affrontent un Glavenus. Ils se sont fait cassé la gueule et ont fui (cadran 8, groupe check pour avancer le cadran, glavenus a open check pour les rattraper)
 
+Ils sont arrivé à Meline après avoir fuit le Glavenus, ont dormi dans une auberge et racheté des IP.
+
 
 # Notes 
 Point Fabula : 7/3
