@@ -2,8 +2,9 @@ Jet de voyage raté, ils affrontent un Glavenus. Ils se sont fait cassé la gueu
 
 
 # Notes 
-Point Fabula : 5/4
+Point Fabula : 7/3
 
+FP : quête pour chasser le Glavenus présente dans la ville
 
 Loot du Glavenus (qu'ils n'ont pas eu)
 Glavenus Swaxe : 
