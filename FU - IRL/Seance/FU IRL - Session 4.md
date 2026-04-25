@@ -2,7 +2,7 @@ Jet de voyage raté, ils affrontent un Glavenus. Ils se sont fait cassé la gueu
 
 
 # Notes 
-Point Fabula : 4/4
+Point Fabula : 5/4
 
 
 Loot du Glavenus (qu'ils n'ont pas eu)
