@@ -2,7 +2,6 @@ Jet de voyage raté, ils affrontent un Glavenus. Ils se sont fait cassé la gueu
 
 Ils sont arrivé à Meline après avoir fuit le Glavenus, ont dormi dans une auberge et racheté des IP.
 
-
 Nouvelle règle additionnel : 
 Piège (Cadrans 6) : fait perdre les 2 prochains rounds d'actions a l'ennemi et tout ce qui était pas une immunité / absorption devient une vulnérabilité.
 efficace uniquement contre bête, plante, monstre.

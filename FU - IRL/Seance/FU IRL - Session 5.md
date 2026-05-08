@@ -4,6 +4,8 @@ Lysis a essayé d'intimider Gerard le Blanc et a foiré, leur réputation a la c
 
 Fenrock a insulté un peu le forgeron (+100 zenit sur les prix à l'achat)
 
+Ils ont tué le Glavenus.
+
 # Notes
 FP : 2/3
 
