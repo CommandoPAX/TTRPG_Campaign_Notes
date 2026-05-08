@@ -6,6 +6,9 @@ Fenrock a insulté un peu le forgeron (+100 zenit sur les prix à l'achat)
 
 Ils ont tué le Glavenus.
 
+Ont été voir le capitaine de la guarde pour offrir leur service
+Il leur a proposé une quête : saboter la forteresse mobile de l'Empire Kaldien, récompense 4000z
+
 # Notes
 FP : 2/3
 
