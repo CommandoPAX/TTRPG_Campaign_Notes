@@ -1,2 +1,18 @@
 
 # Notes
+
+Loot du Glavenus (qu'ils n'ont pas eu)
+Glavenus Swaxe : 
+Axe mode : 
+DEX + MIG | HR + 7 Fire
+This weapon inflicts Tenderized to each target it hits.
+
+Sword mode :
+DEX + MIG + 2 | HR + 7 Fire
+This weapon deals 5 bonus damage to each target suffering from Tenderized. 
+
+Glavenus Armor : 
+DEX +2 | INS +1 | INIT 0
+Donne une resistance au feu
+
+400 zenits
