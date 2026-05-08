@@ -1,5 +1,9 @@
+Ont été à la caserne 
+
+Lysis a essayé d'intimider Gerard le Blanc et a foiré, leur réputation a la caserne de Meline est un peu niqué
 
 # Notes
+FP : 2/3
 
 Loot du Glavenus (qu'ils n'ont pas eu)
 Glavenus Swaxe : 
