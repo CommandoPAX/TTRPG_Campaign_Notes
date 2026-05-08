@@ -12,9 +12,9 @@ Seul soutien de Taradam : un prototype de char blindé.
 D'autres équipes ont déjà été envoyé, mais la plupart sont morts
 
 # Notes
-FP : 2/3
+FP : 3/3
 
-Loot du Glavenus (qu'ils n'ont pas eu)
+Loot du Glavenus
 	
 	Glavenus Swaxe : 
 	Axe mode : 
@@ -30,3 +30,4 @@ Loot du Glavenus (qu'ils n'ont pas eu)
 	Donne une resistance au feu
 	
 400 zenits
+
