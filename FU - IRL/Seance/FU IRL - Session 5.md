@@ -8,6 +8,8 @@ Ils ont tué le Glavenus.
 
 Ont été voir le capitaine de la guarde pour offrir leur service
 Il leur a proposé une quête : saboter la forteresse mobile de l'Empire Kaldien, récompense 4000z
+Seul soutien de Taradam : un prototype de char blindé.
+D'autres équipes ont déjà été envoyé, mais la plupart sont morts
 
 # Notes
 FP : 2/3
