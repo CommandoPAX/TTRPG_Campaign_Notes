@@ -2,7 +2,7 @@ Ont été à la caserne pour récupérer la quête du Glavenus
 
 Lysis a essayé d'intimider Gerard le Blanc et a foiré, leur réputation a la caserne de Meline est un peu niqué.
 
-Fenrock a insulté un peu le forgeron ()
+Fenrock a insulté un peu le forgeron (+100 zenit sur les prix à l'achat)
 
 # Notes
 FP : 2/3
