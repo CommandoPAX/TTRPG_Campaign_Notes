@@ -23,5 +23,5 @@ Loot du Glavenus (qu'ils n'ont pas eu)
 	Glavenus Armor : 
 	DEX +2 | INS +1 | INIT 0
 	Donne une resistance au feu
-
+	
 400 zenits
