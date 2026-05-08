@@ -8,7 +8,7 @@ Piège (Cadrans 6) : fait perdre les 2 prochains rounds d'actions a l'ennemi et 
 efficace uniquement contre bête, plante, monstre.
 
 # Notes 
-Point Fabula : /3
+Point Fabula : 3/3
 
 FP : quête pour chasser le Glavenus présente dans la ville
 
