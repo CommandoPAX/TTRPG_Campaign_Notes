@@ -14,8 +14,9 @@ Lysis a réussi a freeze la montagne dans le temps, sauvant tout le monde.
 
 Ressenti des persos : 
 - Mili : un nouvel horizon commence, heureuse d'avoir vengé Veronica
-- Fenrock : insatisfait de sa victoire contre Baelsar. Sentait que Baelsar en avait rien à foutre de lui personnellement. S'est senti un peu humilié, s'attendait à plus. L'a trouvé trop faible, aurait été content s'il avait du se sacrifier. Se demande s'il a fait la bonne chose.
+- Fenrock : insatisfait de sa victoire contre Baelsar. Sentait que Baelsar en avait rien à foutre de lui personnellement. S'est senti un peu humilié, s'attendait à plus. L'a trouvé trop faible, aurait été content s'il avait du se sacrifier. Se demande s'il a fait la bonne chose, contrebalancer par le fait qu'une bonne partie de la hiérarchie Kaldienne.
 - Balgo : était pas giga investi dans le combat contre Baelsar suivant le groupe par nécessité
+- Lysis : tremblotant, arrive pas à croire ce qui s'est passé. Se demande si c'ets pour ca qu'il a été amené ici et que c'est ce qu'il était sensé faire. Sentiment d'irréel.
 
 ## Group vehicle fight note
 
@@ -37,6 +38,8 @@ GENERAL BAELSAR ESCALATE
 
 Fenrock va chasser Baelsar l'abomination
 
+IL Y A TOUJOURS UNE IMAGE DE LYSIS DANS l'EMPIRE KALDIEN AVEC DES INCONNUS DANS SA BACKSTORY --> NON RESOLU
+
 Loot
 
 General Baelsar : 
@@ -45,7 +48,7 @@ General Baelsar :
 	Engraved Rifle (Martial Firearm) : DEX+INS+1 HR+10 bolt 2-handed | After this weapon deals damage to one or more ennemies, if the enemy is vulnerable to bolt damage, you can inflict 5 bolt damage to every enemy on the scene.
 
 Subject-43 : 
-	Dark Gauntlet : Provoke used against a creature with more HP than you : always succesful
+	Dark Gauntlet (OBTENU PAR FENROCK): Provoke used against a creature with more HP than you : always succesful
 	Biocloak : DEX+1 INS +1 0 | when you use a spell or skill that has an MP cost, you can spend HP instead. If you have vismagus you can spend half as much HP. Not usable on spells or skill that recover HP
 
 Kaldien Fortress Energy Core : 
