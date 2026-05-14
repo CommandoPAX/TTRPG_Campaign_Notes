@@ -12,6 +12,11 @@ Ils ont détruit le cœur d'énergie de Kaldia, alors que la capitale se trouvai
 
 Lysis a réussi a freeze la montagne dans le temps, sauvant tout le monde.
 
+Ressenti des persos : 
+- Mili : un nouvel horizon commence, heureuse d'avoir vengé Veronica
+- Fenrock : insatisfait de sa victoire contre Baelsar. Sentait que Baelsar en avait rien à foutre de lui personnellement. S'est senti un peu humilié, s'attendait à plus. L'a trouvé trop faible, aurait été content s'il avait du se sacrifier. Se demande s'il a fait la bonne chose.
+- Balgo : était pas giga investi dans le combat contre Baelsar suivant le groupe par nécessité
+
 ## Group vehicle fight note
 
 Group vehicle surprisingly tanky due to inability to use multi attack
@@ -29,6 +34,8 @@ Lysis doit faire un faux pas
 Mili a fini son arc de vengeance
 
 GENERAL BAELSAR ESCALATE
+
+Fenrock va chasser Baelsar l'abomination
 
 Loot
 
