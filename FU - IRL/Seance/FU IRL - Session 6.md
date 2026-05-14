@@ -1,7 +1,14 @@
 Le groupe s'est mis en route vers la position supposée de la Forteresse Kaldien après avoir modifié leur véhicule.
 Sur le chemin, leur nouveau véhicule a commencé a perdre de l'altitude et malheureusement malgré les effort de Lysis et Fenrock, il a subi un léger crash qui lui a infligé des dégâts mineures.
 
-Ils ont détruit le coeur d'énergie de Kaldia, 
+Durant la bataille pour la forteresse, le Sujet-43, chef d'oeuvre du Général, a été éliminé.
+
+Le General Baelsar, devant la destruction de la capitale et de tout ceux pour quoi il a oeuvré, a décidé de s'injecter un serum expérimentale alors qu'il allait mourir. Dans la seconde suivante, Mili lui a explosé le crâne mais il était trop tard, le serum ayant déjà agis. 
+Le corps sans tête de Baelsar s'est enfui.
+
+Mili a décidé que sa vengeance était terminé et a déposé le pistolet 
+
+Ils ont détruit le cœur d'énergie de Kaldia, alors que la capitale se trouvait sous une montagne. La montagne s'effondrant sur la ville, Lysis a tenté un rituel pour la sauver.
 
 ## Group vehicle fight note
 
