@@ -10,7 +10,7 @@ Combat can maybe be repetitive for PC with small statblock
 	Encourage multiple actions
 
 # Notes
-FP : 3/4
+FP : 4/4
 UP : 8
 
 Lysis doit faire un faux pas
