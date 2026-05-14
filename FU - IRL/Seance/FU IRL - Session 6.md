@@ -11,9 +11,11 @@ Combat can maybe be repetitive for PC with small statblock
 
 # Notes
 FP : 6/4
-UP : 9
+UP : 15
 
 Lysis doit faire un faux pas
+
+GENERAL BAELSAR ESCALATE
 
 Loot
 
