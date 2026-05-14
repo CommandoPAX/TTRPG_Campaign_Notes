@@ -17,9 +17,12 @@ Loot
 
 General Baelsar : 
 	General's Ring : No HR0 on your own attack while using Queen's Gambit
-	Assemble
+	Assembler's Portable Portal : once per scene, when you have to pay an inventory point cost, you can halve the cost
+	Engraved Rifle (Martial Firearm) : DEX+INS+1 HR+10 bolt 2-handed | After this weapon deals damage to one or more ennemies, if the enemy is vulnerable to bolt damage, you can inflict 5 bolt damage to every enemy on the scene.
 
 Subject-43 : 
 	Dark Gauntlet : Provoke used against a creature with more HP than you : always succesful
 	Biocloak : DEX+1 INS +1 0 | when you use a spell or skill that has an MP cost, you can spend HP instead. If you have vismagus you can spend half as much HP. Not usable on spells or skill that recover HP
-	
+
+Kaldien Fortress Energy Core : 
+	Energy core amplifier : when you suffer an attack with a damage type other than physical
