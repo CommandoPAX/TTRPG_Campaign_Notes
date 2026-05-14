@@ -10,8 +10,10 @@ Combat can maybe be repetitive for PC with small statblock
 	Encourage multiple actions
 
 # Notes
-FP : 0/4
+FP : 2/4
 UP : 6
+
+Lysis doit faire un faux pas
 
 Loot
 
