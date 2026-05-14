@@ -43,7 +43,7 @@ IL Y A TOUJOURS UNE IMAGE DE LYSIS DANS l'EMPIRE KALDIEN AVEC DES INCONNUS DANS 
 Loot
 
 General Baelsar : 
-	General's Ring : No HR0 on your own attack while using Queen's Gambit
+	General's Ring (OBTENU PAR LYSIS) : No HR0 on your own attack while using Queen's Gambit
 	Assembler's Portable Portal : once per scene, when you have to pay an inventory point cost, you can halve the cost
 	Engraved Rifle (Martial Firearm) : DEX+INS+1 HR+10 bolt 2-handed | After this weapon deals damage to one or more ennemies, if the enemy is vulnerable to bolt damage, you can inflict 5 bolt damage to every enemy on the scene.
 
