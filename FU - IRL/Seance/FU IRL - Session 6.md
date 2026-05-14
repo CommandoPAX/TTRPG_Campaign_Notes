@@ -6,9 +6,11 @@ Durant la bataille pour la forteresse, le Sujet-43, chef d'oeuvre du Général, 
 Le General Baelsar, devant la destruction de la capitale et de tout ceux pour quoi il a oeuvré, a décidé de s'injecter un serum expérimentale alors qu'il allait mourir. Dans la seconde suivante, Mili lui a explosé le crâne mais il était trop tard, le serum ayant déjà agis. 
 Le corps sans tête de Baelsar s'est enfui.
 
-Mili a décidé que sa vengeance était terminé et a déposé le pistolet 
+Mili a décidé que sa vengeance était terminé et a déposé le pistolet de Veronica.
 
 Ils ont détruit le cœur d'énergie de Kaldia, alors que la capitale se trouvait sous une montagne. La montagne s'effondrant sur la ville, Lysis a tenté un rituel pour la sauver.
+
+Lysis a réussi a freeze la montagne dans le temps, sauvant tout le monde.
 
 ## Group vehicle fight note
 
@@ -19,10 +21,12 @@ Combat can maybe be repetitive for PC with small statblock
 	Encourage multiple actions
 
 # Notes
-FP : 6/4
+FP : 8/4
 UP : 15
 
 Lysis doit faire un faux pas
+
+Mili a fini son arc de vengeance
 
 GENERAL BAELSAR ESCALATE
 
