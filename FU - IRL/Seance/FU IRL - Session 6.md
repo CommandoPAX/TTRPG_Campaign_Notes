@@ -3,4 +3,4 @@ Sur le chemin, leur nouveau véhicule a commencé a perdre de l'altitude et malh
 
 # Notes
 FP : 0/3
-UP : 
+UP : 2
