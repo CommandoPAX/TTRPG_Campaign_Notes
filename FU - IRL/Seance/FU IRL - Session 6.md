@@ -15,3 +15,11 @@ UP : 2
 
 Loot
 
+General Baelsar : 
+	General's Ring : No HR0 on your own attack while using Queen's Gambit
+	Assemble
+
+Subject-43 : 
+	Dark Gauntlet : Provoke used against a creature with more HP than you : always succesful
+	Biocloak : DEX+1 INS +1 0 | when you use a spell or skill that has an MP cost, you can spend HP instead. If you have vismagus you can spend half as much HP. Not usable on spells or skill that recover HP
+	
