@@ -11,7 +11,7 @@ Combat can maybe be repetitive for PC with small statblock
 
 # Notes
 FP : 0/4
-UP : 4
+UP : 6
 
 Loot
 
