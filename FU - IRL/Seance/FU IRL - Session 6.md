@@ -1,1 +1,1 @@
-Préparer du loot speciale commandant pour Lysis
+Le groupe s'est mis en route vers la position supposée de la Forteresse Kaldien après avoir modifié leur véhicule.
