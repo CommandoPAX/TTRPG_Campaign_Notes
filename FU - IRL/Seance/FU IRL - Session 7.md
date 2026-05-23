@@ -18,7 +18,7 @@ Les PJ ont choisi d'aller aider la population rescapé de Kaldia puis de se diri
 Arrivé dans la zone, ils voient un camp de refugié ainsi qu'un second camp autour d'un portail avec des "militaires autour" et une ville de l'autre côté du portail (inspiration ZZZ, new Eridu)
 
 Ont choisi d'aller voir le camp de la nouvelle Eridu, mais ils se sont fait jeter.
-Mili distribue de la bouffe dans le camp de réfugié.
+Mili distribue de la bouffe dans le camp de réfugié, mais n'a pas fait beaucoup de différence.
 
 # Pour la suite
 
