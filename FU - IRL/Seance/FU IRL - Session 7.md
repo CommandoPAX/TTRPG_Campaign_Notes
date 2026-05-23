@@ -30,6 +30,8 @@ Au milieu du trou dans la statue une grande lueur bleu.
 
 Info pas encore donné au PJ : Statue sont deux mécas très anciens qui se sont entretué, l'un d'eux avec un module d'énergie endothermique et l'autre exothermique. Le coeur d'énergie endothermique exposé cause l'Eisfell.
 
+Les deux scientifiques du camp les ont accueilli et leur ont demandé d'arrête
+
 # Pour la suite
 
 Empire Kaldien fait de baelsar un martyr qui a sauvé la ville Personne ne sait exactement qui a détruit la capitale, bcp de rumeurs Personne ne sait non plus qui l'a réellement sauvé, officiellement c'est Baelsar mais nations extérieures doute beaucoup
