@@ -9,7 +9,9 @@ Ont révélé :
 Quête proposé : 
 - Aide humanitaire pour les rescapé de Kaldia
 - Source théorique de l'Eisfell localisé par un groupe de chercheur au sud de l'Empire Kaldien
-- Culte étrange qui se propage sur Manigrovia
+- Culte étrange qui se propage sur Manigrovia et population qui se fige dans le temps
+- Portails étranges qui sont apparus partout dans le monde et mène vers des destinations
+- Désert d'Endell : le mal qui frappait la zone se propage exponentiellement 
 
 # Pour la suite
 
