@@ -1,4 +1,4 @@
-PJ ont faire leur rapport à la caserne, récompense obtenu. 
+PJ ont faire leur rapport à la caserne, récompense de 3999z obtenu. 
 
 Ont révélé : 
 - Arrêter la forteresse
