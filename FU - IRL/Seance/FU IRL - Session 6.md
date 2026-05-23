@@ -51,4 +51,4 @@ Subject-43 :
 	Biocloak : DEX+1 INS +1 0 | when you use a spell or skill that has an MP cost, you can spend HP instead. If you have vismagus you can spend half as much HP. Not usable on spells or skill that recover HP
 
 Kaldien Fortress Energy Core : 
-	Energy core amplifier : when you suffer damage, the energy core amplifier stores the damage type. When you deal damage, you can choose to change the damage type to the one stored in the energy core. If you do, your attack deal 5 more damage.
+	Energy core amplifier (1400z) : when you suffer damage, the energy core amplifier stores the damage type. When you deal damage, you can choose to change the damage type to the one stored in the energy core. If you do, your attack deal 5 more damage.
