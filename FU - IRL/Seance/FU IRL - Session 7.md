@@ -30,7 +30,7 @@ Au milieu du trou dans la statue une grande lueur bleu.
 
 Info pas encore donné au PJ : Statue sont deux mécas très anciens qui se sont entretué, l'un d'eux avec un module d'énergie endothermique et l'autre exothermique. Le coeur d'énergie endothermique exposé cause l'Eisfell.
 
-Les deux scientifiques du camp les ont accueilli et leur ont demandé d'arrête
+Les deux scientifiques du camp les ont accueilli et leur ont demandé d'ouvrir la statue encore en état pour pouvoir en inspecter l'intérieur.
 
 # Pour la suite
 
