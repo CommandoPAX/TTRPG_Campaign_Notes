@@ -44,7 +44,7 @@ Loot
 General Baelsar : 
 	General's Ring (OBTENU PAR LYSIS, 700z) : No HR0 on your own attack while using Queen's Gambit
 	Assembler's Portable Portal (1500z) : once per scene, when you have to pay an inventory point cost, you can halve the cost
-	Engraved Rifle (Martial Firearm) : DEX+INS+1 HR+10 bolt 2-handed | After this weapon deals damage to one or more ennemies, if the enemy is vulnerable to bolt damage, you can inflict 5 bolt damage to every enemy on the scene.
+	Engraved Rifle (Martial Firearm, 1300z) : DEX+INS+1 HR+10 bolt 2-handed | After this weapon deals damage to one or more ennemies, if the enemy is vulnerable to bolt damage, you can inflict 5 bolt damage to every enemy on the scene.
 
 Subject-43 : 
 	Dark Gauntlet (OBTENU PAR FENROCK, 700z): Provoke used against a creature with more HP than you : always succesful
