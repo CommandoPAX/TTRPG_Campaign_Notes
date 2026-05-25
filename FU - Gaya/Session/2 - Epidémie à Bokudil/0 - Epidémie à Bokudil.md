@@ -19,7 +19,10 @@
 - Toute personne présentant des signes de [[Dr. Panic|l'Enlèvement]] est envoyé dans un camp de quarantaine mécanisé dirigé par le [[Dr. Panic]].
 - Des mouvements anti-quarantaine existent clandestinement dans la ville, luttant contre "l'oppression".
 - Dans le camp, un immense culte a [[l'Eveillé]] se forme peu à peu, ce dernier prendra le contrôle de la ville sous peu.
+- Quelques personnes essaient tant bien que mal de convaincre le reste de la population de ne pas boire l'eau, ayant compris d'où provient l'infection. Ils sont traités comme des fous.
 
 # [[Bokudil|Thule]]
 ## Points-clés
-- Pour l'instant la seule des trois villes encore épargnés par le Dr. Pan
+- Pour l'instant la seule des trois villes encore épargnés par le [[Dr. Panic]]. L'accès a [[Bokudil|Thule]] est restreint à toute personne montrant des signes de [[Dr. Panic|l'Enlèvement]] (ces derniers sont redirigé vers les centres de quarantaine a [[Bokudil|Kemes]])
+- Des patrouilles sanitaires du gouvernement [[Bokudil|Thulien]] patrouillent les rues mais sinon la ville est tout à fait normal.
+- Le gouvernement gère l'approvisionnement en eau des autres villes via un réseau de portail dans d'immense reservoirs. Ces derniers sont tous contaminé par l'Enlèvement et extrêmement bien pr

@@ -5,6 +5,7 @@ aliases:
   - Thuliens
   - Thuliennes
   - Kemes
+  - Thulien
 ---
 # Création d'Alice
 ## Esthétique
