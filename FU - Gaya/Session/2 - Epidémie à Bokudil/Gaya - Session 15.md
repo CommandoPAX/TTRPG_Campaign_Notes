@@ -17,12 +17,6 @@ Butineurs (dont [[Iris]] faisait partie) : un gang d'enfants géré par un gars 
 	Poulpi : légèrement plus âgée qu'[[Iris]], surnommé ainsi car il était complètement kleptomane et donnait l'impression d'avoir 8 bras vu la vitesse de ses vols.
 	Le Nain : le membre le plus jeune du gang (a environ 13 ans maintenant)
 	Kali : sert de doyenne (a environ 42 ans maintenant), s'occupe du gang et tente de les former du mieux qu'elle peut. Un peu dur et très sévère, bricoleuse
-La planque est un ajoncement de tente qui couvre un sous-sol.
+La planque est un jonchement de tente qui couvre un sous-sol.
 
 Kali déambule sans but dans le sous-sol, contaminé par l'infection s'étant emparé de la ville.
-
-Thématique : brume, oubli, stagnation
-
-Infection généré par l'arcane de l'ile. Gouvernement de [[Bokudil|Nethis]] a voulu reproduire expériences Thulienne pour contrôler l'arcane mais ont échoué, celle ci encore emprisonné mais source du phénomène.
-
-Personne dans la ville n'a besoin de manger ou boire depuis le début des expériences.
