@@ -7,9 +7,9 @@ Récompenses (équivalent 2000z):
 # Notes
 
 Jour 8 :
-Lysandre date avec Jean-Senshi, le forgeron.
+Lysandre Iris date avec Jean-Senshi, le forgeron.
 Le date est une réussite, ils ont passé une nuit toride, et il a rejoint le harem.
-Edel et Iris ont donné la potion Réveil-Les-Morts aux gens qu'ils ont déjà réveillé afin que ceux ci réveille les autres endormis.
+Edel et Idris ont donné la potion Réveil-Les-Morts aux gens qu'ils ont déjà réveillé afin que ceux ci réveille les autres endormis.
 
 Jour 9 :
 Le groupe a fait une découverte inattendue, une grotte rempli de cristaux plein de Manna (1500 zenit).

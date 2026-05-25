@@ -1,3 +1,5 @@
+Création d'Alice
+
 Le Désert d’Endell est majoritairement sous l’autorité de la Communauté de Yesèpa. Tous
 les 10ans, celle-ci tient l’Election Aride, une immense compétition avec des épreuves variées qui décide de la faction ayant l’autorité absolue sur la Communauté et ses territoires.
 

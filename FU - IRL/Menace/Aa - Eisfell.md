@@ -1,1 +1,1 @@
-Une immense vague de froid se propageant dans le monde depuis le pôle sud.
+Une immense vague de froid se propageant dans le monde depuis le pôle sud. Celle-ci menace principalement l'Empire Kaldien.

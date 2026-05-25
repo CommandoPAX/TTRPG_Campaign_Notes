@@ -2,7 +2,7 @@ Dernière épreuve de la journée : un défilé de Harem
 
 Marcum Nethermoon un des juge du défilé se bourre la gueule à la taverne "Gloire des Perdants"
 
-Saint Maso a interrompu la compétition en invoquant une soixaintaine de démon, rendant quasiment tout le monde Aro/Ace. Fight avec Saint Maso. Saint Maso a été vaincu et s'est replié mais la plupart du public est devenu Aro Ace.
+Saint Maso a interrompu la compétition en invoquant une soixaintaine de démon, rendant quasiment tout le monde Aro/Ace. Fight avec [[Saint-Maso]]. Saint Maso a été vaincu et s'est replié mais la plupart du public est devenu Aro Ace.
 
 Faune locale :
 

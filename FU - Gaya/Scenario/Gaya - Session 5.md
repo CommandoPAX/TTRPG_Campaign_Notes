@@ -14,5 +14,5 @@ Le groupe est arrivé devant le trône de [[la Reine des Rêves]], celui est au 
 Jour 8 : 
 
 Meth recruté
-Lysandre tente de pécho un forgeron qui vient de se réveiller (inspiré par Senshi de Dungeon Meshi)
+[[Lysandre Idris]] tente de pécho un forgeron qui vient de se réveiller (inspiré par Senshi de Dungeon Meshi)
 Envoyé les gens qui se sont réveillé vers la ville la plus proche mais ils arriveront en mauvaise état

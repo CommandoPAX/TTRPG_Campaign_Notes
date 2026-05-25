@@ -12,7 +12,7 @@ Activités de camp marche avec les règles normales
 - [[Edel]]
 - [[Iris]]
 - [[Cain Astia]]
-- [[Lysandre Iris]]
+- [[Lysandre Idris]]
 
 # Vilains
 - [[Saint-Maso]]
