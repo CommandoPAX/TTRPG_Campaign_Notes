@@ -1,18 +1,15 @@
-Domains : Conscience, Âmes, Partage
+Domains : Consciousness, Soul, Sharing
 
 # Merge - Shared Consciousness
 
 You gain resistance to **light** damage.
 
-Choose a skill which scales on skill level that you or one of your allies know. Until you dismiss this arcanum, you treat this skill as if it was one level higher (ignoring the normal limit on skill levels).
+Choose a skill which scales on skill level that you or one of your allies know. Until you dismiss this arcanum, they treat this skill as if it was one level higher (ignoring the normal limit on skill levels).
 
-# Pulse
+# Pulse - Helping hand
 
+Until the end of your next turn, you treat a skill that you or one of your ally know as if it was two level higher (ignoring the normal limit on skill levels).
 
-Until the end of your next turn, you treat a skill that you or one of your ally know as if it was 2
+# Dismiss - A shred of knowledge
 
-# Dismiss
-
-Choississez une option : 
-- infligez 20 dégâts de lumière a toutes les créatures dans la scène
-- vous établissez un lien avec une créature avec qui vous avez un lien vous permettant de communiquer avec elle mentalement pendant 24h peu importe la distance
+Until the end of the scene, you can use one skill that one of your know, with a skill level of one. You do not gain any additionnal benefits (such as spells, HP, MP,...).
