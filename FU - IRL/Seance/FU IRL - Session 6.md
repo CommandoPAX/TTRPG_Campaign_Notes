@@ -33,7 +33,7 @@ UP : 15
 
 [[Mili]] a fini son arc de vengeance
 
-Le Général Baelsar a ESCALATE
+Le [[Général Baelsar]] a ESCALATE devenant [[Gaius Von Baelsar l'Abomination]]
 
 [[Fenrock]] va chasser Baelsar l'abomination
 
