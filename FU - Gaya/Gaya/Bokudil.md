@@ -44,3 +44,7 @@ Toutes les îles de Bokudil sont connectées entre elles par L’Errant, un trai
 Personne ne sait réellement comment les deux Errants ont été créés, et aucun habitant de Bokudil n’a osé prendre le risque de les décomposer, de peur de se retrouver coincé en terrain dangereux.
 
 # Scénario by Corusu
+
+# Thule
+
+Thule est dirigé par une organisation nommé le [[Dr. Panic|Comité des 15]]
