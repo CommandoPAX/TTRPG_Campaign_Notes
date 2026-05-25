@@ -1,14 +1,15 @@
 Domains : Conscience, Âmes, Partage
 
-# Merge
+# Merge - Shared Consciousness
 
-Vous obtenez une résistance aux dégâts de Lumière.
+You gain resistance to **light** damage.
 
-Choississez l'un de vos talents, vous pouvez le traiter comme si vous aviez investi un niveau supplémentaire dedans.
+Choose a skill which scales on skill level that you or one of your allies know. Until you dismiss this arcanum, you treat this skill as if it was one level higher (ignoring the normal limit on skill levels).
 
 # Pulse
 
-Vous pouvez utiliser l'action skill, le talent utilisé est considéré comme ayant deux niveaux supplémentaires. 
+
+Until the end of your next turn, you treat a skill that you or one of your ally know as if it was 2
 
 # Dismiss
 
