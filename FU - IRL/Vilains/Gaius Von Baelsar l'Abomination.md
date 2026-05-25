@@ -1,1 +1,0 @@
-https://fultimator.com/npc-gallery/0GTwtUQDBC0CkOPvjaYa

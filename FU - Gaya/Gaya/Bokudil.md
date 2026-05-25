@@ -1,7 +1,10 @@
 ---
-
+aliases:
+  - Nethis
+  - Thule
+  - Thuliens
+  - Thuliennes
 ---
-
 # Création d'Alice
 ## Esthétique
 
