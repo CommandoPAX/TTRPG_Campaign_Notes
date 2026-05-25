@@ -25,4 +25,5 @@
 ## Points-clés
 - Pour l'instant la seule des trois villes encore épargnés par le [[Dr. Panic]]. L'accès a [[Bokudil|Thule]] est restreint à toute personne montrant des signes de [[Dr. Panic|l'Enlèvement]] (ces derniers sont redirigé vers les centres de quarantaine a [[Bokudil|Kemes]])
 - Des patrouilles sanitaires du gouvernement [[Bokudil|Thulien]] patrouillent les rues mais sinon la ville est tout à fait normal.
-- Le gouvernement gère l'approvisionnement en eau des autres villes via un réseau de portail dans d'immense reservoirs. Ces derniers sont tous contaminé par l'Enlèvement et extrêmement bien pr
+- Le gouvernement gère l'approvisionnement en eau des autres villes via un réseau de portail dans d'immense reservoirs. Ces derniers sont tous contaminé par [[Dr. Panic|l'Enlèvement]] et extrêmement bien protégé par le [[Dr. Panic]].
+- Le laboratoire du [[Dr. Panic]] se situe dans le plus gros centree de distributions de l'eau.
