@@ -5,5 +5,6 @@ Tout les PJ sont infecté par [[Dr. Panic|l'Enlèvement]] (effet mécanique : Da
 Le groupe, ne sachant que faire, a préféré partir en direction de [[Bokudil|l'Errant]]. Ils ont pu constater l'état désastreux de [[Bokudil|l'Errant]] et sont reparti bredouille. 
 
 Sur le chemin du retour, ils ont croisé le Nain qui les a informé de l'état de la ville et de l'épidémie ravageant [[Bokudil|Nethis]] et [[Bokudil|Kemes]]. 
+Ils ont discuté avec [[l'Eveillé]] en allant dans le quartier riche. Celui-ci les a informé de l'état général de Nethis et de Kemes et les a mis en guarde contre les actions du gouvernement de Kemes. 
 
 # Notes
