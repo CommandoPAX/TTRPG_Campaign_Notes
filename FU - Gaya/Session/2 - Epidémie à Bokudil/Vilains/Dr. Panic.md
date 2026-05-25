@@ -14,7 +14,11 @@ Le Comité des 15 est l'organisation dirigeante de [[Bokudil|Thule]]. L'identit�
 # l'Enlèvement
 
 Le Dr. Panic et son équipe de recherche utilise l'Enlèvement pour prendre peu à peu le contrôle de [[Bokudil]].
-L'Enlèvement est une infection causé par des nano-machines déconnectant peu à peu les personnes du flux des âmes, les transformant en coquille vide. 
+L'Enlèvement est une infection causé par des nano-machines (et non de la magie, afin de faire porter le chapeau a [[Bokudil|Kemes]] en cas de découverte) déconnectant peu à peu les personnes du flux des âmes, les transformant en coquille vide. 
+
+Il n'existe aucun remède hors des laboratoires secrets [[Bokudil|Thuliens]].
+
+L'Enlèvement se propage grâce à de l'eau contaminé par le Dr. Panic.
 
 # Autres
 

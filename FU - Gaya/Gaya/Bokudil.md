@@ -4,6 +4,7 @@ aliases:
   - Thule
   - Thuliens
   - Thuliennes
+  - Kemes
 ---
 # Création d'Alice
 ## Esthétique
