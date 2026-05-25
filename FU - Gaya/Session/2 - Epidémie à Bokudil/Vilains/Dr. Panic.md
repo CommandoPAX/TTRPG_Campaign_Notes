@@ -20,8 +20,6 @@ Il n'existe aucun remède hors des laboratoires secrets [[Bokudil|Thuliens]].
 
 L'Enlèvement se propage grâce à de l'eau contaminé par le Dr. Panic.
 
-Si les PJs viennent à être infecté p
-
 # Autres
 
 Utilise un nom de code "Etoile Brillante"
