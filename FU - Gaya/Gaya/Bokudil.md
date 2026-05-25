@@ -6,6 +6,7 @@ aliases:
   - Thuliennes
   - Kemes
   - Thulien
+  - l'Errant
 ---
 # Création d'Alice
 ## Esthétique

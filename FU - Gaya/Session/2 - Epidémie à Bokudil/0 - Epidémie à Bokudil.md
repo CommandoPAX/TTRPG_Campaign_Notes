@@ -9,8 +9,7 @@
 - La ville entière est sous la menace de [[Dr. Panic|l'Enlèvement]], les gens ne sont pas très courtoix mais les autorités sont dépassé et très peu de mesure sont prises
 - L'ancien groupe d'[[Iris]], les Butineurs ont été dissous lorsque l'infection s'est un peu trop emparé de [[Bokudil|Nethis]], Kali a souhaité resté et est maintenant sous l'emprise de [[Dr. Panic|l'Enlèvement]]
 - Poulpi, membres des Butineurs, a été enfermé en prison après un vol qui a mal tourné, il se trouve dans une des prisons de [[Bokudil|Nethis]]
-- Le Nain, membre le plus jeune des Butineurs, prépare un coup pour forcer le blocus de l'Errant et se rendre sur une des îles voisines, traine dans une des tavernes de [[Bokudil|Nethis]].
-- L'Errant est actuellement hors d'usage, bloqué à quai à [[Bokudil|Nethis]] à cause d'un dragon ([[Valstrax]]) qui a attaqué le train lors d'un voyage précédent.
+- Le Nain, membre le plus jeune des Butineurs, prépare un coup pour forcer le blocus de [[Bokudil|l'Errant]] et se rendre sur une des îles voisines, traine dans une des tavernes de [[Bokudil|Nethis]].
 - L'accès au quartier riche est complètement fermé, celui ci est ravagé par [[Dr. Panic|l'Enlèvement]], et les quelques personnes pas complètement catatonique voue maintenant un culte à [[l'Eveillé]].
 
 # [[Bokudil|Kemes]]
@@ -27,3 +26,6 @@
 - Des patrouilles sanitaires du gouvernement [[Bokudil|Thulien]] patrouillent les rues mais sinon la ville est tout à fait normal.
 - Le gouvernement gère l'approvisionnement en eau des autres villes via un réseau de portail dans d'immense reservoirs. Ces derniers sont tous contaminé par [[Dr. Panic|l'Enlèvement]] et extrêmement bien protégé par le [[Dr. Panic]].
 - Le laboratoire du [[Dr. Panic]] se situe dans le plus gros centree de distributions de l'eau.
+
+# [[Bokudil|L'Errant]]
+- [[Bokudil|L'Errant]] est actuellement hors d'usage, bloqué à quai à [[Bokudil|Nethis]] à cause d'un dragon ([[Valstrax]]) qui a attaqué le train lors d'un voyage précédent.
