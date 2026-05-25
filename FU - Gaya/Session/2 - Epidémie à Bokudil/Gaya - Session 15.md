@@ -9,7 +9,7 @@ Autres habitants se tiennent loin d'eux
 [[Iris]] avait d'anciens collègues, elle ne sait pas s'ils sont encore en vie
 Autorité de la ville sont habillé entièrement en noir, agissent secrètement
 
-L'arrêt de l'Errant se situe en dehors de la ville (je cite c'est pas pratique d'habiter à côté).
+L'arrêt de [[Bokudil|l'Errant]] se situe en dehors de la ville (je cite c'est pas pratique d'habiter à côté).
 
 [[Bokudil|Nethis]] est une ville séparée en deux grande zone : bidonvilles et les étages supérieures pour les riches
 
