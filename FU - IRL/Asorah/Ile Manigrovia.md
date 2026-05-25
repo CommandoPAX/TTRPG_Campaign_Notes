@@ -1,3 +1,5 @@
+Création d'Olivier
+
 Plante toxique (non hallucinogène) vénérée : 
 - surstimulation du système nerveux et du foie, mais très nutritive
 - exposition à cette plante est un moyen de montrer sa force mentale

@@ -1,1 +1,0 @@
-La ville dans laquelle a été fondée la nation éponyme semble avoir été construite par une ancienne civilisation l'ayant abandonnée.
