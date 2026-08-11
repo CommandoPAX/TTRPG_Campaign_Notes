@@ -10,6 +10,7 @@ Loic (Witch, Spinner of threads) : Un mage a récemment échappé à son destin 
 - Sachant qu'il est poursuivi et que son philactère est encore trop rudimentaire pour être camouflé, il ne l'éloignera pas de sa personne.
 - Il est de notoriété publique qu'il est incapable de se retenir de corriger les gens lorsqu'ils font des erreurs sur le fonctionnement de la magie (il a déjà été expulsé de plusieurs pays après avoir corrigé les dirigeants et les avoir traité d'ignare)
 - Il doit rencontrer la Comtesse Vampire au cours du Bal Carmin.
-- Il utilise un sort de d
+- Il utilise un sort de déguisement pour passer inapercu durant le bal qui peut être détecté grâce au cantrip "Detect Magic" ou être dispel. Le philactère est protégé contre les effets de Dispel
+- Des agents de Pharasma seront présent sur les lieux pour retrouver sa trace aussi
 
 Elma Thoupri
