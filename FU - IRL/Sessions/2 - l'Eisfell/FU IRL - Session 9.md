@@ -4,4 +4,6 @@ Fight contre un Ice Worm, un immense construct mécanique rodant dans les territ
 
 # Notes
 
+FP : 3/3
+
 FAUT FAIRE LA FICHE DU MECHA LEGENDAIRE (VERSION FEU)
