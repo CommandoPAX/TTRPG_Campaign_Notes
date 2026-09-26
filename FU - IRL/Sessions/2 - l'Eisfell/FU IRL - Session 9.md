@@ -4,7 +4,12 @@ Fight contre un Ice Worm, un immense construct mécanique rodant dans les territ
 
 Revenu à Meuline
 
-Manigrovia est perdue
+Quête :
+- Mission diplomatique avec le peuple des portails
+- Manigrovia est perdue ptdr
+- Le Mal qui se propage dans le Désert D'Endel se répand de plus en plus
+
+Manigrovia est perdue, le groupe a décidé de partir vers Manigrovia pour enquêter
 
 # Notes
 
