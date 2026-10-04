@@ -8,4 +8,6 @@ Henry : un scientifique ayant expérimenté sur [[Iris]]. Un couard, tenant beau
 Il y a un interrogatoire musclée de Henry de la part d'[[Iris]].
 [[Iris]] a laissé le scientifique partir. Il a révelé l'existence du [[Dr. Panic|Comité des 15]] et qu'un certain [[Dr. Panic]] ferait de la "maintenance" dans la station de traitement des eaux.
 
+Pour la prochaine session, ils sont allé dans un bar proche de la station d'eau pour tenter de trouver un moyen d'introduire à l'intérieur.
+
 # Notes
