@@ -9,3 +9,5 @@ Gideon a appris le secret de Lancelot ? Non
 Gideon a été pleinement intégré à la mission ? Oui
 
 # Mission 3
+
+On s'est arrêté ai dénit de l'acte 2
